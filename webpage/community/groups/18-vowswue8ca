@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">test group</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/community/groups/18-vowswu</id>
+	<updated>2019-12-27T19:05:15+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/community/groups/18-vowswu?format=feed"/>
+	<entry>
+		<title>
+	
+		
+	Demo
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-09-26T19:33:23+00:00</published>
+		<updated>2018-09-26T19:33:23+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	vowswu
+
+	 added a new task in test
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3790"/>
+		<published>2018-02-17T23:27:14+00:00</published>
+		<updated>2018-02-17T23:27:14+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3790</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-26&quot; value=&quot;26&quot; data-task-checkbox  data-id=&quot;26&quot; /&gt;
+					&lt;label for=&quot;task-26&quot;&gt;
+						tsaas 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					Not assigned yet				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Sunday, 18 February 2018				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-26&quot; value=&quot;26&quot; data-task-checkbox  data-id=&quot;26&quot; /&gt;
+					&lt;label for=&quot;task-26&quot;&gt;
+						tsaas 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					Not assigned yet				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Sunday, 18 February 2018				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Mario Schlobohm
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-02-26T01:47:58+00:00</published>
+		<updated>2018-02-26T01:47:58+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Mario Schlobohm</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	vowswu
+
+	 added a new task in test
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3791"/>
+		<published>2018-02-17T23:27:54+00:00</published>
+		<updated>2018-02-17T23:27:54+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3791</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-27&quot; value=&quot;27&quot; data-task-checkbox  data-id=&quot;27&quot; /&gt;
+					&lt;label for=&quot;task-27&quot;&gt;
+						123 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					Not assigned yet				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Tuesday, 20 February 2018				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-27&quot; value=&quot;27&quot; data-task-checkbox  data-id=&quot;27&quot; /&gt;
+					&lt;label for=&quot;task-27&quot;&gt;
+						123 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					Not assigned yet				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Tuesday, 20 February 2018				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	vowswu
+
+	 added a new task in test
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3789"/>
+		<published>2018-02-17T23:26:26+00:00</published>
+		<updated>2018-02-17T23:26:26+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3789</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-25&quot; value=&quot;25&quot; data-task-checkbox  data-id=&quot;25&quot; /&gt;
+					&lt;label for=&quot;task-25&quot;&gt;
+						a-task 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					Not assigned yet				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Saturday, 17 February 2018				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-25&quot; value=&quot;25&quot; data-task-checkbox  data-id=&quot;25&quot; /&gt;
+					&lt;label for=&quot;task-25&quot;&gt;
+						a-task 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					Not assigned yet				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Saturday, 17 February 2018				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	vowswu
+
+	 created a new milestone tasks</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3788"/>
+		<published>2018-02-17T23:26:09+00:00</published>
+		<updated>2018-02-17T23:26:09+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3788</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-milestone&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;      
+        &lt;a class=&quot;es-stream-apps__title&quot; href=&quot;http://vanilla.stackideas.com/community/events/19-test/71-tasks/item/4&quot;&gt;tasks&lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+        	
+        	&lt;span&gt;
+            Due on Sunday, 18 February 2018            &lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+                    &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-milestone&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;      
+        &lt;a class=&quot;es-stream-apps__title&quot; href=&quot;http://vanilla.stackideas.com/community/events/19-test/71-tasks/item/4&quot;&gt;tasks&lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+        	
+        	&lt;span&gt;
+            Due on Sunday, 18 February 2018            &lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+                    &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	vowswu
+
+	 created a new milestone, test-tasks</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3768"/>
+		<published>2018-02-17T04:40:15+00:00</published>
+		<updated>2018-02-17T04:40:15+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3768</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-milestone&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;      
+        &lt;a class=&quot;es-stream-apps__title&quot; href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/44-tasks/item/3&quot;&gt;test-tasks&lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+        	
+        	&lt;span&gt;
+            Due on Saturday, 17 February 2018            &lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+                    &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-milestone&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;      
+        &lt;a class=&quot;es-stream-apps__title&quot; href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/44-tasks/item/3&quot;&gt;test-tasks&lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+        	
+        	&lt;span&gt;
+            Due on Saturday, 17 February 2018            &lt;/span&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+                    &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	vowswu
+
+	 updated the group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-02-17T04:34:58+00:00</published>
+		<updated>2018-02-17T04:34:58+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>	
+	
+		
+	vowswu
+
+	 created a new event in test group
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3685"/>
+		<published>2018-02-14T00:21:33+00:00</published>
+		<updated>2018-02-14T00:21:33+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3685</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/20-3131&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;3131&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/20-3131&quot;&gt;3131&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+						&lt;span data-original-title=&quot;Group Event&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Group Event	&lt;/span&gt;
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				14th Feb, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/20/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/20-3131/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1350 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+	
+	
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/20-3131&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;3131&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/20-3131&quot;&gt;3131&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+						&lt;span data-original-title=&quot;Group Event&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Group Event	&lt;/span&gt;
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+									&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				14th Feb, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/20/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/20-3131/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1350 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+	
+	
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="events" />
+	</entry>
+	<entry>
+		<title>	
+	
+		
+	vowswu
+
+	 created a new event in test group
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3681"/>
+		<published>2018-02-13T16:34:41+00:00</published>
+		<updated>2018-02-13T16:34:41+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/3681</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/19-test&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;test&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/19-test&quot;&gt;test&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+						&lt;span data-original-title=&quot;Group Event&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Group Event	&lt;/span&gt;
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					test				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				14th Feb, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/19/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/19-test/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1882 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+	
+	
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/19-test&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;test&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/groups/18-vowswu/events/19-test&quot;&gt;test&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+						&lt;span data-original-title=&quot;Group Event&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Group Event	&lt;/span&gt;
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					test				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				14th Feb, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/19/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/19-test/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1882 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+	
+	
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="events" />
+	</entry>
+</feed>

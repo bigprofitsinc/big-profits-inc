@@ -1,0 +1,157 @@
+/** 
+* @package      EasyArticles
+* @copyright    Copyright (C) 2010 - 2018 Stack Ideas Sdn Bhd. All rights reserved.
+* @license      Proprietary Use License https://stackideas.com/licensing
+**/
+/**
+ * This is only used for rendering typography in the content 
+ * and editor.
+ */
+/**
+ * #SETTINGS
+ */
+/*------------------------------------*\
+	$Variables.less
+\*------------------------------------*/
+/**
+ * #TOOLS
+ */
+/*!
+ * #Object
+ * 
+ */
+/*
+ * Container
+ */
+/* Holds and centers the site content */
+/*
+ * The Grid
+ */
+/* Add `.grid` for the table */
+/* Add `.col` for the table cells, or columns */
+/* Set the widths */
+/* Padded columns */
+/*
+ * Vertically center grid content
+ *
+ * Requires content within the column to be inline or inline-block.
+ */
+/* Safari 6.1+ (10 is the latest version of Safari at this time) */
+.ea-audio {
+  width: 100%;
+}
+.ea-gallery {
+  clear: both;
+  position: relative;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  -ms-flex-flow: row wrap;
+  flex-flow: row wrap;
+}
+.ea-gallery .ea-figure {
+  width: calc(25% - 6px) !important;
+  vertical-align: top;
+  display: -webkit-flex !important;
+  display: -ms-flexbox !important;
+  display: -ms-flex !important;
+  display: flex !important;
+  -webkit-flex-flow: column;
+  -ms-flex-flow: column;
+  flex-flow: column;
+  margin-right: 8px !important;
+  margin-bottom: 8px !important;
+  overflow: hidden;
+  position: relative;
+}
+.ea-gallery .ea-figure:nth-of-type(4n) {
+  margin-right: 8px !important;
+}
+.ea-gallery .ea-figure:nth-of-type(4n) {
+  margin-right: 0 !important;
+}
+.ea-gallery .ea-img {
+  width: 100%;
+  min-height: 200px !important;
+  position: relative;
+  overflow: hidden;
+}
+.ea-gallery img {
+  border: none;
+  max-width: 100%;
+  max-height: 100%;
+  margin: auto;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+.ea-gallery .ea-figcaption {
+  text-align: center;
+  z-index: 2;
+  -webkit-align-self: flex-end;
+  -ms-align-self: flex-end;
+  align-self: flex-end;
+  width: 100%;
+  font-size: 12px;
+  outline: none !important;
+}
+.ea-gallery .ea-figcaption::-moz-focus-inner {
+  border: 0 !important;
+}
+.ea-gallery.no-control:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+figure figcaption {
+  text-align: center !important;
+}
+.ea-block-container.is-video,
+.ea-block-container.is-audio,
+.ea-block-container.is-pdf,
+.ea-block-container.is-embedder,
+.ea-block-container.is-photo-gallery {
+  clear: both;
+}
+.pull-full {
+  clear: both;
+}
+.pull-full > figure {
+  display: block !important;
+  text-align: center;
+}
+.pull-full > figure > img {
+  width: 100% !important;
+  height: auto;
+}
+.pull-center {
+  text-align: center;
+  clear: both;
+}
+.ea-embed {
+  position: relative;
+  padding-top: 56.25%;
+}
+.ea-embed embed,
+.ea-embed iframe,
+.ea-embed object,
+.ea-embed video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+  border: 0;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.ea-embed--16by9 {
+  padding-top: 56.25%;
+}

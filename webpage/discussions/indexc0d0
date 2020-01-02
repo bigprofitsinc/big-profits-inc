@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Discussions</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://vanilla.stackideas.com/discussions/index</link>
+		<lastBuildDate>Fri, 27 Dec 2019 18:23:57 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/discussions/index?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Integration EasySocial and EasyDiscuss</title>
+			<link>http://vanilla.stackideas.com/discussions/integration-easysocial-and-easydiscuss</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/integration-easysocial-and-easydiscuss</guid>
+			<description><![CDATA[Hi, will this be visible in the timeline of EasySocial? That would be great!!!]]></description>
+			<category>Uncategories</category>
+			<pubDate>Tue, 03 Sep 2019 13:29:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>Test Discussion</title>
+			<link>http://vanilla.stackideas.com/discussions/test-discussion</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/test-discussion</guid>
+			<description><![CDATA[Will this be shown in the EasySocial Timeline?]]></description>
+			<category>Uncategories</category>
+			<pubDate>Tue, 12 Feb 2019 08:36:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>test question</title>
+			<link>http://vanilla.stackideas.com/discussions/test-question</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/test-question</guid>
+			<description><![CDATA[test]]></description>
+			<category>Uncategories</category>
+			<pubDate>Mon, 05 Feb 2018 06:26:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>This is a question about EasyDiscuss and EasySocial !</title>
+			<link>http://vanilla.stackideas.com/discussions/this-is-a-question-about-easydiscuss-and-easysocial</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/this-is-a-question-about-easydiscuss-and-easysocial</guid>
+			<description><![CDATA[The biggest, meanest antagonist showed me the light side of the mean guy. No mean guy considers himself to be evil — everything he does is intended for good. He revealed his soft, pale underbelly and I saw how grievously wrong things had turned out for him, how lost and defeated he lives, and how he aches to accomplish something lasting, powerful, and important no matter what it takes, no matter the casualties.
+
+I learned point of view and voice, practicing first person and third person in successive drafts, deepening my appreciation for their opportunities and limits . Reluctantly, I admitted and adjusted my enthusiastic reliance on adverbs and florid description. I studied continuously and used what I learned. More times than I want to remember, I stunned a teacher by thanking them for blowing up and progressing my craft and my story.
+
+This novel has been thrashed out and discussed with others. It has also been read by many generous, discerning early readers. Various versions have been workshopped and shared with critique groups. Right now, the novel and I are in deep revision and in the hands of an adept, smart, supportive critique partner.
+
+Right ?]]></description>
+			<category>Uncategories</category>
+			<pubDate>Mon, 13 Nov 2017 09:46:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Congratulations! You have successfully installed EasyDiscuss</title>
+			<link>http://vanilla.stackideas.com/discussions/congratulations-succesfully-installed-easydiscuss</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/congratulations-succesfully-installed-easydiscuss</guid>
+			<description><![CDATA[Congratulations! You have successfully installed EasyDiscuss and ready to post your first question!]]></description>
+			<category>Uncategories</category>
+			<pubDate>Fri, 10 Nov 2017 06:27:51 +0000</pubDate>
+		</item>
+		<item>
+			<title>Thank you for choosing EasyDiscuss</title>
+			<link>http://vanilla.stackideas.com/discussions/thank-you-for-choosing-easydiscuss</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/thank-you-for-choosing-easydiscuss</guid>
+			<description><![CDATA[Thank you for choosing EasyDiscuss as your preferred discussion tool for your Joomla! website. We hope you find it useful in achieving your needs.]]></description>
+			<category>Uncategories</category>
+			<pubDate>Fri, 10 Nov 2017 06:27:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

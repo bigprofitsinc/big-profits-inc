@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>test group</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://vanilla.stackideas.com</link>
+		<lastBuildDate>Fri, 27 Dec 2019 19:05:14 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/community/groups/18-vowswu?format=feed"/>
+		<language>en-gb</language>
+		<item>
+			<title>
+	
+		
+	Demo
+
+	 joined this group</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[]]></description>
+			<category>groups</category>
+			<pubDate>Wed, 26 Sep 2018 19:33:23 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	vowswu
+
+	 added a new task in test
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/3790</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3790</guid>
+			<description><![CDATA[<div class="es-stream-apps type-tasks">
+	<div class="es-stream-apps__hd">
+		<div class="es-stream-apps__title">Tasks:</div>
+	</div>
+
+	<div class="es-stream-apps__bd es-stream-apps--border">
+		<div class="es-stream-apps__desc">
+						<div class="">
+				<div class="o-checkbox">
+					<input type="checkbox" id="task-26" value="26" data-task-checkbox  data-id="26" />
+					<label for="task-26">
+						tsaas 
+					</label>
+				</div>
+			</div>
+			<ul class="g-list-inline g-list-inline--dashed t-text--muted">
+								<li>
+					Not assigned yet				</li>
+												<li>
+					Due on Sunday, 18 February 2018				</li>
+							</ul>            
+					</div>
+	</div>
+</div>
+]]></description>
+			<category>tasks</category>
+			<pubDate>Sat, 17 Feb 2018 23:27:14 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Mario Schlobohm
+
+	 joined this group</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[]]></description>
+			<category>groups</category>
+			<pubDate>Mon, 26 Feb 2018 01:47:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	vowswu
+
+	 added a new task in test
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/3791</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3791</guid>
+			<description><![CDATA[<div class="es-stream-apps type-tasks">
+	<div class="es-stream-apps__hd">
+		<div class="es-stream-apps__title">Tasks:</div>
+	</div>
+
+	<div class="es-stream-apps__bd es-stream-apps--border">
+		<div class="es-stream-apps__desc">
+						<div class="">
+				<div class="o-checkbox">
+					<input type="checkbox" id="task-27" value="27" data-task-checkbox  data-id="27" />
+					<label for="task-27">
+						123 
+					</label>
+				</div>
+			</div>
+			<ul class="g-list-inline g-list-inline--dashed t-text--muted">
+								<li>
+					Not assigned yet				</li>
+												<li>
+					Due on Tuesday, 20 February 2018				</li>
+							</ul>            
+					</div>
+	</div>
+</div>
+]]></description>
+			<category>tasks</category>
+			<pubDate>Sat, 17 Feb 2018 23:27:54 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	vowswu
+
+	 added a new task in test
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/3789</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3789</guid>
+			<description><![CDATA[<div class="es-stream-apps type-tasks">
+	<div class="es-stream-apps__hd">
+		<div class="es-stream-apps__title">Tasks:</div>
+	</div>
+
+	<div class="es-stream-apps__bd es-stream-apps--border">
+		<div class="es-stream-apps__desc">
+						<div class="">
+				<div class="o-checkbox">
+					<input type="checkbox" id="task-25" value="25" data-task-checkbox  data-id="25" />
+					<label for="task-25">
+						a-task 
+					</label>
+				</div>
+			</div>
+			<ul class="g-list-inline g-list-inline--dashed t-text--muted">
+								<li>
+					Not assigned yet				</li>
+												<li>
+					Due on Saturday, 17 February 2018				</li>
+							</ul>            
+					</div>
+	</div>
+</div>
+]]></description>
+			<category>tasks</category>
+			<pubDate>Sat, 17 Feb 2018 23:26:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	vowswu
+
+	 created a new milestone tasks</title>
+			<link>http://vanilla.stackideas.com/stream/item/3788</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3788</guid>
+			<description><![CDATA[<div class="es-stream-apps type-milestone">
+    <div class="es-stream-apps__hd">      
+        <a class="es-stream-apps__title" href="http://vanilla.stackideas.com/community/events/19-test/71-tasks/item/4">tasks</a>
+        <div class="es-stream-apps__meta t-fs--sm">
+        	
+        	<span>
+            Due on Sunday, 18 February 2018            </span>
+        </div>
+    </div>
+
+    <div class="es-stream-apps__bd es-stream-apps--border">
+        <div class="es-stream-apps__desc">
+                    </div>
+        
+    </div>
+</div>
+
+
+]]></description>
+			<category>tasks</category>
+			<pubDate>Sat, 17 Feb 2018 23:26:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	vowswu
+
+	 created a new milestone, test-tasks</title>
+			<link>http://vanilla.stackideas.com/stream/item/3768</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3768</guid>
+			<description><![CDATA[<div class="es-stream-apps type-milestone">
+    <div class="es-stream-apps__hd">      
+        <a class="es-stream-apps__title" href="http://vanilla.stackideas.com/community/groups/18-vowswu/44-tasks/item/3">test-tasks</a>
+        <div class="es-stream-apps__meta t-fs--sm">
+        	
+        	<span>
+            Due on Saturday, 17 February 2018            </span>
+        </div>
+    </div>
+
+    <div class="es-stream-apps__bd es-stream-apps--border">
+        <div class="es-stream-apps__desc">
+                    </div>
+        
+    </div>
+</div>
+
+
+]]></description>
+			<category>tasks</category>
+			<pubDate>Sat, 17 Feb 2018 04:40:15 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	vowswu
+
+	 updated the group</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[]]></description>
+			<category>groups</category>
+			<pubDate>Sat, 17 Feb 2018 04:34:58 +0000</pubDate>
+		</item>
+		<item>
+			<title>	
+	
+		
+	vowswu
+
+	 created a new event in test group
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/3685</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3685</guid>
+			<description><![CDATA[<div class="es-profile-header es-profile-header--mini">
+	<div class="es-profile-header__hd with-cover">
+		<div class="es-profile-header__cover es-flyout no-cover" style="background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;">
+			<div class="es-cover-container">
+
+			</div>
+		</div>
+		<div class="es-profile-header__avatar-wrap es-flyout" data-profile-avatar="">
+			<a href="http://vanilla.stackideas.com/community/groups/18-vowswu/events/20-3131">
+				<img src="http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png" alt="3131">
+			</a>
+		</div>
+	</div>
+
+	<div class="es-profile-header__bd">
+		<div class="t-lg-pull-left">
+			<h2 class="es-profile-header__title">
+				<a href="http://vanilla.stackideas.com/community/groups/18-vowswu/events/20-3131">3131</a>
+			</h2>
+
+			<ul class="g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md">
+				<li class="">
+					<a href="http://vanilla.stackideas.com/community/events/categories/12-general-2-3">
+						<i class="fa fa-folder"></i>&nbsp; General					</a>
+				</li>
+
+				<li class="">
+						<span data-original-title="Group Event" data-es-provide="tooltip" data-placement="bottom">
+		<i class="fa fa-users"></i>&nbsp;&nbsp;		Group Event	</span>
+
+				</li>
+			</ul>
+
+			<div class="es-teaser-about t-lg-mt--md">
+				<div class="">
+									</div>
+			</div>
+
+			<div class="es-teaser-date">
+				<i class="fa fa-calendar mr-5"></i>
+				14th Feb, 2018			</div>
+		</div>
+	</div>
+
+	<div class="es-profile-header__ft">
+		<nav class="o-nav es-nav-pills">
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/20/albums" class="o-nav__link">
+					<i class="far fa-images"></i>&nbsp;
+											0 Album									</a>
+			</span>
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/20-3131/64-guests" class="o-nav__link">
+					<i class="fa fa-users"></i>&nbsp;
+											1 Attendee									</a>
+			</span>
+
+						<span class="o-nav__item">
+				<span class="o-nav__link">
+					<i class="fa fa-eye"></i>&nbsp;
+											1350 Views									</span>
+			</span>
+			
+			<div role="toolbar" class="btn-toolbar t-pull-right">
+				<div class="o-btn-group">
+					
+	
+	
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+]]></description>
+			<category>events</category>
+			<pubDate>Wed, 14 Feb 2018 00:21:33 +0000</pubDate>
+		</item>
+		<item>
+			<title>	
+	
+		
+	vowswu
+
+	 created a new event in test group
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/3681</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3681</guid>
+			<description><![CDATA[<div class="es-profile-header es-profile-header--mini">
+	<div class="es-profile-header__hd with-cover">
+		<div class="es-profile-header__cover es-flyout no-cover" style="background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;">
+			<div class="es-cover-container">
+
+			</div>
+		</div>
+		<div class="es-profile-header__avatar-wrap es-flyout" data-profile-avatar="">
+			<a href="http://vanilla.stackideas.com/community/groups/18-vowswu/events/19-test">
+				<img src="http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png" alt="test">
+			</a>
+		</div>
+	</div>
+
+	<div class="es-profile-header__bd">
+		<div class="t-lg-pull-left">
+			<h2 class="es-profile-header__title">
+				<a href="http://vanilla.stackideas.com/community/groups/18-vowswu/events/19-test">test</a>
+			</h2>
+
+			<ul class="g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md">
+				<li class="">
+					<a href="http://vanilla.stackideas.com/community/events/categories/12-general-2-3">
+						<i class="fa fa-folder"></i>&nbsp; General					</a>
+				</li>
+
+				<li class="">
+						<span data-original-title="Group Event" data-es-provide="tooltip" data-placement="bottom">
+		<i class="fa fa-users"></i>&nbsp;&nbsp;		Group Event	</span>
+
+				</li>
+			</ul>
+
+			<div class="es-teaser-about t-lg-mt--md">
+				<div class="">
+					test				</div>
+			</div>
+
+			<div class="es-teaser-date">
+				<i class="fa fa-calendar mr-5"></i>
+				14th Feb, 2018			</div>
+		</div>
+	</div>
+
+	<div class="es-profile-header__ft">
+		<nav class="o-nav es-nav-pills">
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/19/albums" class="o-nav__link">
+					<i class="far fa-images"></i>&nbsp;
+											0 Album									</a>
+			</span>
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/19-test/64-guests" class="o-nav__link">
+					<i class="fa fa-users"></i>&nbsp;
+											1 Attendee									</a>
+			</span>
+
+						<span class="o-nav__item">
+				<span class="o-nav__link">
+					<i class="fa fa-eye"></i>&nbsp;
+											1882 Views									</span>
+			</span>
+			
+			<div role="toolbar" class="btn-toolbar t-pull-right">
+				<div class="o-btn-group">
+					
+	
+	
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+]]></description>
+			<category>events</category>
+			<pubDate>Tue, 13 Feb 2018 16:34:41 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Installation</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/documentation/installation/10-documentation</id>
+	<updated>2019-12-27T20:02:16+00:00</updated>
+	<author>
+		<name>Vanilla Template</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/documentation/installation/10-documentation?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Documentation</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation"/>
+		<published>2018-08-23T05:19:13+00:00</published>
+		<updated>2018-08-23T05:19:13+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;page-header&quot;&gt;
+&lt;h2&gt;Documentation&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;In this section you will be able to find the resources on how you can setup your new template to look similar to this site.&lt;/p&gt;
+&lt;p&gt;1. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/installation&quot;&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/module-positions&quot;&gt;Module Positioning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/available-modules&quot;&gt;Available Modules&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/configuring-menus&quot;&gt;Configuring Menus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/updates&quot;&gt;Updates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/demo-layout-setup&quot;&gt;Demo Layout Setup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;page-header&quot;&gt;
+&lt;h2&gt;Documentation&lt;/h2&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;In this section you will be able to find the resources on how you can setup your new template to look similar to this site.&lt;/p&gt;
+&lt;p&gt;1. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/installation&quot;&gt;Installation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/module-positions&quot;&gt;Module Positioning&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/available-modules&quot;&gt;Available Modules&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;4. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/configuring-menus&quot;&gt;Configuring Menus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;5. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/updates&quot;&gt;Updates&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;6. &lt;a href=&quot;http://vanilla.stackideas.com/documentation/demo-layout-setup&quot;&gt;Demo Layout Setup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Documentation" />
+	</entry>
+	<entry>
+		<title>Installation</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation/installation"/>
+		<published>2018-08-23T05:52:37+00:00</published>
+		<updated>2018-08-23T05:52:37+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation/installation</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;p&gt;This documentation will provide you the guidelines on how to install the Vanilla template and apply it on your site.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Downloading the Vanilla Template&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;Once you have purchased the template, all you need to do is head over to our app store and search for &lt;em&gt;Vanilla Template&lt;/em&gt; from the app lising. Here is the &lt;a href=&quot;https://stackideas.com/apps/item/3401-vanilla&quot;&gt;link&lt;/a&gt; to the template download page. The &lt;strong&gt;Download&lt;/strong&gt; button will be visible to you once you have made your purchase. Click on it and your browser will prompt you to download a zip file with the following name format: &lt;strong&gt;tpl_vanilla_version.zip&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Installing Vanilla Template&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;Once you have the installer for the Vanilla Template, you may proceed with the installation. Basically you can install the template at &lt;em&gt;Joomla's Extension Manager&lt;/em&gt;. For those that are not familiar, it is located at &lt;em&gt;Extensions &amp;gt; Manage &amp;gt; Install&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_install_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Under the &lt;strong&gt;Upload Page File&lt;/strong&gt; tab, click on the &lt;strong&gt;browse&lt;/strong&gt; button and select the installer file from your directory, or drag the downloaded installer into the designated area. Joomla will install the template and upon successful installation, you should see the success message as below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_install_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;es outbox&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Vanilla template may &lt;strong&gt;NOT&lt;/strong&gt; be enabled by default. If that's the case, it needs to be manually applied.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;h4&gt;Applying the template&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;After the successful installation process, you may have to apply the template as default template on your site. To do this, navigate to &lt;em&gt;Joomla's template management&lt;/em&gt; page via &lt;em&gt;Extensions &amp;gt; Templates&lt;/em&gt;. Here, you will see the list of templates that you have on the site. Locate the &lt;strong&gt;Vanilla - Default&lt;/strong&gt; template from the list and click on the &lt;strong&gt;star&lt;/strong&gt; button on the &lt;em&gt;Default&lt;/em&gt; column to set this template as the default template on your site.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_install_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;This documentation will provide you the guidelines on how to install the Vanilla template and apply it on your site.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Downloading the Vanilla Template&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;Once you have purchased the template, all you need to do is head over to our app store and search for &lt;em&gt;Vanilla Template&lt;/em&gt; from the app lising. Here is the &lt;a href=&quot;https://stackideas.com/apps/item/3401-vanilla&quot;&gt;link&lt;/a&gt; to the template download page. The &lt;strong&gt;Download&lt;/strong&gt; button will be visible to you once you have made your purchase. Click on it and your browser will prompt you to download a zip file with the following name format: &lt;strong&gt;tpl_vanilla_version.zip&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;Installing Vanilla Template&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;Once you have the installer for the Vanilla Template, you may proceed with the installation. Basically you can install the template at &lt;em&gt;Joomla's Extension Manager&lt;/em&gt;. For those that are not familiar, it is located at &lt;em&gt;Extensions &amp;gt; Manage &amp;gt; Install&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_install_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Under the &lt;strong&gt;Upload Page File&lt;/strong&gt; tab, click on the &lt;strong&gt;browse&lt;/strong&gt; button and select the installer file from your directory, or drag the downloaded installer into the designated area. Joomla will install the template and upon successful installation, you should see the success message as below.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_install_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;es outbox&quot;&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Vanilla template may &lt;strong&gt;NOT&lt;/strong&gt; be enabled by default. If that's the case, it needs to be manually applied.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
+&lt;h4&gt;Applying the template&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;After the successful installation process, you may have to apply the template as default template on your site. To do this, navigate to &lt;em&gt;Joomla's template management&lt;/em&gt; page via &lt;em&gt;Extensions &amp;gt; Templates&lt;/em&gt;. Here, you will see the list of templates that you have on the site. Locate the &lt;strong&gt;Vanilla - Default&lt;/strong&gt; template from the list and click on the &lt;strong&gt;star&lt;/strong&gt; button on the &lt;em&gt;Default&lt;/em&gt; column to set this template as the default template on your site.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_install_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</content>
+		<category term="Documentation" />
+	</entry>
+	<entry>
+		<title>Module Positions</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation/module-positions"/>
+		<published>2018-08-23T07:59:56+00:00</published>
+		<updated>2018-08-23T07:59:56+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation/module-positions</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;p&gt;Vanilla template comes with several module positions out of the box. The list below consists of module positions that are available on the frontend when you first install Vanilla template:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[404]&lt;/li&gt;
+&lt;li&gt;[debug]&lt;/li&gt;
+&lt;li&gt;[feature]&lt;/li&gt;
+&lt;li&gt;[footer-1]&lt;/li&gt;
+&lt;li&gt;[left]&lt;/li&gt;
+&lt;li&gt;[right]&lt;/li&gt;
+&lt;li&gt;[logo]&lt;/li&gt;
+&lt;li&gt;[menu]&lt;/li&gt;
+&lt;li&gt;[bottom-1]&lt;/li&gt;
+&lt;li&gt;[bottom-2]&lt;/li&gt;
+&lt;li&gt;[bottom-3]&lt;/li&gt;
+&lt;li&gt;[bottom-4]&lt;/li&gt;
+&lt;li&gt;[search]&lt;/li&gt;
+&lt;li&gt;[sidebar]&lt;/li&gt;
+&lt;li&gt;[submenu]&lt;/li&gt;
+&lt;li&gt;[title]&lt;/li&gt;
+&lt;li&gt;[topesbar]&lt;/li&gt;
+&lt;li&gt;[topesmenu]&lt;/li&gt;
+&lt;li&gt;[topnotification]&lt;/li&gt;
+&lt;li&gt;[helixpreloader]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The list below consists of the rest of the module positions that are available in the template. These module positions are not available in the frontend when you first install Vanilla template.&lt;/p&gt;
+&lt;p&gt;They can be added later on as additional module positions should you choose to customize the template's layout at the backend settings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[breadcrumb]&lt;/li&gt;
+&lt;li&gt;[comingsoon]&lt;/li&gt;
+&lt;li&gt;[footer-2]&lt;/li&gt;
+&lt;li&gt;[pagebuilder]&lt;/li&gt;
+&lt;li&gt;[position-1]&lt;/li&gt;
+&lt;li&gt;[position-2]&lt;/li&gt;
+&lt;li&gt;[position-3]&lt;/li&gt;
+&lt;li&gt;[position-4]&lt;/li&gt;
+&lt;li&gt;[position-5]&lt;/li&gt;
+&lt;li&gt;[position-6]&lt;/li&gt;
+&lt;li&gt;[position-7]&lt;/li&gt;
+&lt;li&gt;[position-8]&lt;/li&gt;
+&lt;li&gt;[slide]&lt;/li&gt;
+&lt;li&gt;[slider]&lt;/li&gt;
+&lt;li&gt;[user1]&lt;/li&gt;
+&lt;li&gt;[user2]&lt;/li&gt;
+&lt;li&gt;[user3]&lt;/li&gt;
+&lt;li&gt;[user4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Module positions on the site can be previewed when the '&lt;strong&gt;Preview Module Positions&lt;/strong&gt;' is turned on in &lt;em&gt;Joomla's global template&lt;/em&gt; options. To locate this setting, head to &lt;em&gt;Extensions &amp;gt; Templates &amp;gt; Options&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Once in &lt;em&gt;Joomla's template&lt;/em&gt; options page, enable the '&lt;strong&gt;Preview Module Positions&lt;/strong&gt;' setting.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Here are screenshots of module positions preview for a fresh Vanilla template installation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Sidebar position&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;404 position&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Configure Modules Based On Module Positions&lt;/h4&gt;
+&lt;p&gt;Modules in Joomla can be create at Joomla's modules section, &lt;em&gt;Extensions &amp;gt; Modules&lt;/em&gt;. If the module you are looking is not on the list, you may click on the &lt;strong&gt;'New'&lt;/strong&gt; button located on the top left of the modules page, then select the desired module.&lt;/p&gt;
+&lt;p&gt;When selecting a position for the module, it is important to know that if the desired position does not appear in the position dropdown, you can manually type it in the search section and press enter. This is provided that you know this position exist on the template after previewing the module positions as mentioned above.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Also, remember to configure the menu assignment as well since this allows you to choose which page/s you want the module to display on.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Layout Configuration:&lt;/h4&gt;
+&lt;p&gt;Module positions layout can be customized further in Vanilla template from the Layout settings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Here, you can &lt;strong&gt;add/remove&lt;/strong&gt; rows, columns, assign the module positions to be used in the row/column and various other layout combinations.&lt;/p&gt;
+&lt;p&gt;Since &lt;em&gt;Vanilla&lt;/em&gt; template is powered by &lt;em&gt;Helix 3&lt;/em&gt;, you can find more detailed information for these settings at &lt;a href=&quot;https://www.joomshaper.com/documentation/helix-framework/helix3#layout-manager-settings&quot;&gt;Helix 3's official documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You may also find other useful information for the other backend settings from &lt;em&gt;Helix 3's&lt;/em&gt; official documentation.&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Vanilla template comes with several module positions out of the box. The list below consists of module positions that are available on the frontend when you first install Vanilla template:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[404]&lt;/li&gt;
+&lt;li&gt;[debug]&lt;/li&gt;
+&lt;li&gt;[feature]&lt;/li&gt;
+&lt;li&gt;[footer-1]&lt;/li&gt;
+&lt;li&gt;[left]&lt;/li&gt;
+&lt;li&gt;[right]&lt;/li&gt;
+&lt;li&gt;[logo]&lt;/li&gt;
+&lt;li&gt;[menu]&lt;/li&gt;
+&lt;li&gt;[bottom-1]&lt;/li&gt;
+&lt;li&gt;[bottom-2]&lt;/li&gt;
+&lt;li&gt;[bottom-3]&lt;/li&gt;
+&lt;li&gt;[bottom-4]&lt;/li&gt;
+&lt;li&gt;[search]&lt;/li&gt;
+&lt;li&gt;[sidebar]&lt;/li&gt;
+&lt;li&gt;[submenu]&lt;/li&gt;
+&lt;li&gt;[title]&lt;/li&gt;
+&lt;li&gt;[topesbar]&lt;/li&gt;
+&lt;li&gt;[topesmenu]&lt;/li&gt;
+&lt;li&gt;[topnotification]&lt;/li&gt;
+&lt;li&gt;[helixpreloader]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The list below consists of the rest of the module positions that are available in the template. These module positions are not available in the frontend when you first install Vanilla template.&lt;/p&gt;
+&lt;p&gt;They can be added later on as additional module positions should you choose to customize the template's layout at the backend settings.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[breadcrumb]&lt;/li&gt;
+&lt;li&gt;[comingsoon]&lt;/li&gt;
+&lt;li&gt;[footer-2]&lt;/li&gt;
+&lt;li&gt;[pagebuilder]&lt;/li&gt;
+&lt;li&gt;[position-1]&lt;/li&gt;
+&lt;li&gt;[position-2]&lt;/li&gt;
+&lt;li&gt;[position-3]&lt;/li&gt;
+&lt;li&gt;[position-4]&lt;/li&gt;
+&lt;li&gt;[position-5]&lt;/li&gt;
+&lt;li&gt;[position-6]&lt;/li&gt;
+&lt;li&gt;[position-7]&lt;/li&gt;
+&lt;li&gt;[position-8]&lt;/li&gt;
+&lt;li&gt;[slide]&lt;/li&gt;
+&lt;li&gt;[slider]&lt;/li&gt;
+&lt;li&gt;[user1]&lt;/li&gt;
+&lt;li&gt;[user2]&lt;/li&gt;
+&lt;li&gt;[user3]&lt;/li&gt;
+&lt;li&gt;[user4]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Module positions on the site can be previewed when the '&lt;strong&gt;Preview Module Positions&lt;/strong&gt;' is turned on in &lt;em&gt;Joomla's global template&lt;/em&gt; options. To locate this setting, head to &lt;em&gt;Extensions &amp;gt; Templates &amp;gt; Options&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Once in &lt;em&gt;Joomla's template&lt;/em&gt; options page, enable the '&lt;strong&gt;Preview Module Positions&lt;/strong&gt;' setting.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Here are screenshots of module positions preview for a fresh Vanilla template installation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Sidebar position&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;404 position&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Configure Modules Based On Module Positions&lt;/h4&gt;
+&lt;p&gt;Modules in Joomla can be create at Joomla's modules section, &lt;em&gt;Extensions &amp;gt; Modules&lt;/em&gt;. If the module you are looking is not on the list, you may click on the &lt;strong&gt;'New'&lt;/strong&gt; button located on the top left of the modules page, then select the desired module.&lt;/p&gt;
+&lt;p&gt;When selecting a position for the module, it is important to know that if the desired position does not appear in the position dropdown, you can manually type it in the search section and press enter. This is provided that you know this position exist on the template after previewing the module positions as mentioned above.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Also, remember to configure the menu assignment as well since this allows you to choose which page/s you want the module to display on.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;h4&gt;Layout Configuration:&lt;/h4&gt;
+&lt;p&gt;Module positions layout can be customized further in Vanilla template from the Layout settings.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_module_positions_docs_7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Here, you can &lt;strong&gt;add/remove&lt;/strong&gt; rows, columns, assign the module positions to be used in the row/column and various other layout combinations.&lt;/p&gt;
+&lt;p&gt;Since &lt;em&gt;Vanilla&lt;/em&gt; template is powered by &lt;em&gt;Helix 3&lt;/em&gt;, you can find more detailed information for these settings at &lt;a href=&quot;https://www.joomshaper.com/documentation/helix-framework/helix3#layout-manager-settings&quot;&gt;Helix 3's official documentation&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You may also find other useful information for the other backend settings from &lt;em&gt;Helix 3's&lt;/em&gt; official documentation.&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</content>
+		<category term="Documentation" />
+	</entry>
+	<entry>
+		<title>Available Modules</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation/available-modules"/>
+		<published>2018-10-11T03:58:50+00:00</published>
+		<updated>2018-10-11T03:58:50+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation/available-modules</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;p&gt;The following are modules that are included in Vanilla template's installation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasyBlog - Navigation Button Module:&lt;/strong&gt; Renders &lt;em&gt;EasyBlog&lt;/em&gt; toolbar buttons such as new blog post, quick post etc.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasyDiscuss - Navigation Button Module:&lt;/strong&gt; Renders &lt;em&gt;EasyDiscuss&lt;/em&gt; toolbar buttons such as new discussion, conversations etc.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vanilla Sidebar Module:&lt;/strong&gt; Renders &lt;em&gt;EasySocial&lt;/em&gt; links in the sidebar position. On mobile view, renders additional links from &lt;em&gt;EasyBlog&lt;/em&gt; and &lt;em&gt;EasyDiscuss&lt;/em&gt;.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vanilla Submenu Module:&lt;/strong&gt; Renders toolbar menu items from &lt;em&gt;EasySocial/EasyBlog/EasyDiscuss&lt;/em&gt; or selected menu from Joomla, depending on the module settings.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The following are modules that are included in Vanilla template's installation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasyBlog - Navigation Button Module:&lt;/strong&gt; Renders &lt;em&gt;EasyBlog&lt;/em&gt; toolbar buttons such as new blog post, quick post etc.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasyDiscuss - Navigation Button Module:&lt;/strong&gt; Renders &lt;em&gt;EasyDiscuss&lt;/em&gt; toolbar buttons such as new discussion, conversations etc.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vanilla Sidebar Module:&lt;/strong&gt; Renders &lt;em&gt;EasySocial&lt;/em&gt; links in the sidebar position. On mobile view, renders additional links from &lt;em&gt;EasyBlog&lt;/em&gt; and &lt;em&gt;EasyDiscuss&lt;/em&gt;.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vanilla Submenu Module:&lt;/strong&gt; Renders toolbar menu items from &lt;em&gt;EasySocial/EasyBlog/EasyDiscuss&lt;/em&gt; or selected menu from Joomla, depending on the module settings.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_modules_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</content>
+		<category term="Documentation" />
+	</entry>
+	<entry>
+		<title>Configuring Menus</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation/configuring-menus"/>
+		<published>2018-10-11T04:05:15+00:00</published>
+		<updated>2018-10-11T04:05:15+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation/configuring-menus</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;p&gt;The process of creating menus in &lt;em&gt;Vanilla&lt;/em&gt; template is almost the same as that in Joomla. In &lt;em&gt;Vanilla&lt;/em&gt;, the best position to place a menu would be in the mega menu. Mega menu is a feature from the &lt;em&gt;Helix 3 framework&lt;/em&gt;. However, you are free to select any position that best suit your site.&lt;/p&gt;
+&lt;p&gt;To create a menu, &lt;strong&gt;navigate&lt;/strong&gt; to &lt;em&gt;Menus &amp;gt; Manage &amp;gt; Add New Menu&lt;/em&gt;. Once you are there, &lt;strong&gt;enter&lt;/strong&gt; the &lt;em&gt;title&lt;/em&gt; and &lt;em&gt;menu type&lt;/em&gt; of the menu, then &lt;strong&gt;save&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Once you have created the menu, head into this &lt;em&gt;menu&lt;/em&gt; and click on the '&lt;strong&gt;New&lt;/strong&gt;' button. This allows you to create a new menu item under this &lt;em&gt;menu&lt;/em&gt;.&lt;br /&gt;Next, click on the '&lt;strong&gt;Select&lt;/strong&gt;' button to choose the &lt;em&gt;Menu Item Type&lt;/em&gt;. A popup will show allowing you to select the menu item type.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Once you have chose the menu item type, configure the menu item according to your needs and &lt;strong&gt;save&lt;/strong&gt;. If you want to make this menu item a &lt;em&gt;sub menu&lt;/em&gt; of another menu, feel free to select the parent menu item on the right side of the menu item configuration.&lt;/p&gt;
+&lt;p&gt;Head back to the modules page and create a menu module if you do not have one. Enter the menu module &lt;em&gt;title&lt;/em&gt;, select the menu that you configured earlier and the position where you want to place this module. Feel free to configure any other setings if you want.&lt;br /&gt;&lt;strong&gt;Save&lt;/strong&gt; the module and the menu should now display on the configured position and page/s.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;The process of creating menus in &lt;em&gt;Vanilla&lt;/em&gt; template is almost the same as that in Joomla. In &lt;em&gt;Vanilla&lt;/em&gt;, the best position to place a menu would be in the mega menu. Mega menu is a feature from the &lt;em&gt;Helix 3 framework&lt;/em&gt;. However, you are free to select any position that best suit your site.&lt;/p&gt;
+&lt;p&gt;To create a menu, &lt;strong&gt;navigate&lt;/strong&gt; to &lt;em&gt;Menus &amp;gt; Manage &amp;gt; Add New Menu&lt;/em&gt;. Once you are there, &lt;strong&gt;enter&lt;/strong&gt; the &lt;em&gt;title&lt;/em&gt; and &lt;em&gt;menu type&lt;/em&gt; of the menu, then &lt;strong&gt;save&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Once you have created the menu, head into this &lt;em&gt;menu&lt;/em&gt; and click on the '&lt;strong&gt;New&lt;/strong&gt;' button. This allows you to create a new menu item under this &lt;em&gt;menu&lt;/em&gt;.&lt;br /&gt;Next, click on the '&lt;strong&gt;Select&lt;/strong&gt;' button to choose the &lt;em&gt;Menu Item Type&lt;/em&gt;. A popup will show allowing you to select the menu item type.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Once you have chose the menu item type, configure the menu item according to your needs and &lt;strong&gt;save&lt;/strong&gt;. If you want to make this menu item a &lt;em&gt;sub menu&lt;/em&gt; of another menu, feel free to select the parent menu item on the right side of the menu item configuration.&lt;/p&gt;
+&lt;p&gt;Head back to the modules page and create a menu module if you do not have one. Enter the menu module &lt;em&gt;title&lt;/em&gt;, select the menu that you configured earlier and the position where you want to place this module. Feel free to configure any other setings if you want.&lt;br /&gt;&lt;strong&gt;Save&lt;/strong&gt; the module and the menu should now display on the configured position and page/s.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_configure_menus_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</content>
+		<category term="Documentation" />
+	</entry>
+	<entry>
+		<title>Updates</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation/updates"/>
+		<published>2018-10-11T04:10:22+00:00</published>
+		<updated>2018-10-11T04:10:22+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation/updates</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;p&gt;It is always recommended to stay up to date with the latest version of any software to avoid running into unnecessary bugs. This can be done by receiving the latest updates from us. There is one most important thing to remember each time you run the update: &lt;strong&gt;Backup! Backup!! Backup!!!&lt;/strong&gt; Once you've backup the site, you may proceed with the updates.&lt;/p&gt;
+&lt;h4&gt;Updating Vanilla Template&lt;/h4&gt;
+&lt;p&gt;Updating Vanilla template is just as simple as installing over the new template. You can either:&lt;/p&gt;
+&lt;p&gt;1. Install the latest Vanilla template over the existing installation, or&lt;/p&gt;
+&lt;p&gt;2. Uninstall the previous version and install the latest version again.&lt;/p&gt;
+&lt;p&gt;Your css customization in custom.css will not get overwritten by updates.&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;It is always recommended to stay up to date with the latest version of any software to avoid running into unnecessary bugs. This can be done by receiving the latest updates from us. There is one most important thing to remember each time you run the update: &lt;strong&gt;Backup! Backup!! Backup!!!&lt;/strong&gt; Once you've backup the site, you may proceed with the updates.&lt;/p&gt;
+&lt;h4&gt;Updating Vanilla Template&lt;/h4&gt;
+&lt;p&gt;Updating Vanilla template is just as simple as installing over the new template. You can either:&lt;/p&gt;
+&lt;p&gt;1. Install the latest Vanilla template over the existing installation, or&lt;/p&gt;
+&lt;p&gt;2. Uninstall the previous version and install the latest version again.&lt;/p&gt;
+&lt;p&gt;Your css customization in custom.css will not get overwritten by updates.&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</content>
+		<category term="Documentation" />
+	</entry>
+	<entry>
+		<title>Demo Layout Setup</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/documentation/demo-layout-setup"/>
+		<published>2018-10-11T04:28:02+00:00</published>
+		<updated>2018-10-11T04:28:02+00:00</updated>
+		<id>http://vanilla.stackideas.com/documentation/demo-layout-setup</id>
+		<author>
+			<name>Fadhli</name>
+		</author>
+		<summary type="html">&lt;p&gt;In this guide we will briefly go through the process to set up a layout similar to Vanilla's demo site.&lt;/p&gt;
+&lt;h4&gt;Menu&lt;/h4&gt;
+&lt;p&gt;By referring to the '&lt;strong&gt;Configuring Menus&lt;/strong&gt;' documentation, create a main menu for display on the front end.&lt;/p&gt;
+&lt;p&gt;Navigate to &lt;strong&gt;Vanilla template&lt;/strong&gt; &lt;em&gt;settings &amp;gt; Menu &amp;gt; Select Menu&lt;/em&gt; and &lt;strong&gt;select&lt;/strong&gt; the menu which you want to display on the menu position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Modules and positions&lt;/h4&gt;
+&lt;p&gt;The modules and positions below are used in &lt;em&gt;Vanilla's demo site.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Search:&lt;/strong&gt; The search module is basically &lt;strong&gt;EasySocial Search module&lt;/strong&gt; placed on the '&lt;strong&gt;search&lt;/strong&gt;' position. This module is assigned to &lt;strong&gt;all pages.&lt;/strong&gt;&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Right: The right side contains several modules. They are placed on the '&lt;strong&gt;right&lt;/strong&gt;' position and consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EasyBlog - Biography Module&lt;/strong&gt;, all pages except &lt;em&gt;EasySocial conversations&lt;/em&gt; page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EasyBlog - Latest Bloggers Module&lt;/strong&gt;, only on &lt;em&gt;EasyBlog&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EasyBlog - Most Popular Post Module&lt;/strong&gt;, all pages except &lt;em&gt;EasySocial conversations&lt;/em&gt; page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EasySocial Albums&lt;/strong&gt;, all pages except &lt;em&gt;EasySocial conversations&lt;/em&gt; page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sidebar:&lt;/strong&gt; &lt;strong&gt;Vanilla Sidebar Module&lt;/strong&gt; is placed on the '&lt;strong&gt;sidebar&lt;/strong&gt;' position on &lt;strong&gt;all pages.&lt;/strong&gt;&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasySocial Dropdown Menu module:&lt;/strong&gt; Assigned to &lt;strong&gt;all pages&lt;/strong&gt; at the '&lt;strong&gt;topesmenu&lt;/strong&gt;' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasySocial Notifications module:&lt;/strong&gt; Assigned to &lt;em&gt;EasySocial&lt;/em&gt; and &lt;em&gt;Joomla&lt;/em&gt; &lt;em&gt;article&lt;/em&gt; pages at the '&lt;strong&gt;topnotification&lt;/strong&gt;' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;EasyBlog - Navigation Button module: Assigned to EasyBlog pages at the 'topnotification' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasyDiscuss - Navigation Button module:&lt;/strong&gt; Assigned to &lt;em&gt;EasyDiscuss&lt;/em&gt; &lt;em&gt;pages&lt;/em&gt; at the '&lt;strong&gt;topnotification&lt;/strong&gt;' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;In this guide we will briefly go through the process to set up a layout similar to Vanilla's demo site.&lt;/p&gt;
+&lt;h4&gt;Menu&lt;/h4&gt;
+&lt;p&gt;By referring to the '&lt;strong&gt;Configuring Menus&lt;/strong&gt;' documentation, create a main menu for display on the front end.&lt;/p&gt;
+&lt;p&gt;Navigate to &lt;strong&gt;Vanilla template&lt;/strong&gt; &lt;em&gt;settings &amp;gt; Menu &amp;gt; Select Menu&lt;/em&gt; and &lt;strong&gt;select&lt;/strong&gt; the menu which you want to display on the menu position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;Modules and positions&lt;/h4&gt;
+&lt;p&gt;The modules and positions below are used in &lt;em&gt;Vanilla's demo site.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Search:&lt;/strong&gt; The search module is basically &lt;strong&gt;EasySocial Search module&lt;/strong&gt; placed on the '&lt;strong&gt;search&lt;/strong&gt;' position. This module is assigned to &lt;strong&gt;all pages.&lt;/strong&gt;&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Right: The right side contains several modules. They are placed on the '&lt;strong&gt;right&lt;/strong&gt;' position and consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;EasyBlog - Biography Module&lt;/strong&gt;, all pages except &lt;em&gt;EasySocial conversations&lt;/em&gt; page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EasyBlog - Latest Bloggers Module&lt;/strong&gt;, only on &lt;em&gt;EasyBlog&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EasyBlog - Most Popular Post Module&lt;/strong&gt;, all pages except &lt;em&gt;EasySocial conversations&lt;/em&gt; page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;EasySocial Albums&lt;/strong&gt;, all pages except &lt;em&gt;EasySocial conversations&lt;/em&gt; page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sidebar:&lt;/strong&gt; &lt;strong&gt;Vanilla Sidebar Module&lt;/strong&gt; is placed on the '&lt;strong&gt;sidebar&lt;/strong&gt;' position on &lt;strong&gt;all pages.&lt;/strong&gt;&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_4.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasySocial Dropdown Menu module:&lt;/strong&gt; Assigned to &lt;strong&gt;all pages&lt;/strong&gt; at the '&lt;strong&gt;topesmenu&lt;/strong&gt;' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_5.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasySocial Notifications module:&lt;/strong&gt; Assigned to &lt;em&gt;EasySocial&lt;/em&gt; and &lt;em&gt;Joomla&lt;/em&gt; &lt;em&gt;article&lt;/em&gt; pages at the '&lt;strong&gt;topnotification&lt;/strong&gt;' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_6.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;EasyBlog - Navigation Button module: Assigned to EasyBlog pages at the 'topnotification' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EasyDiscuss - Navigation Button module:&lt;/strong&gt; Assigned to &lt;em&gt;EasyDiscuss&lt;/em&gt; &lt;em&gt;pages&lt;/em&gt; at the '&lt;strong&gt;topnotification&lt;/strong&gt;' position.&lt;br /&gt;&lt;img src=&quot;http://vanilla.stackideas.com/images/vanilla_demo_guide_docs_8.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;{KomentoDisable}&lt;/p&gt;</content>
+		<category term="Documentation" />
+	</entry>
+</feed>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Congratulations</title>
+		<description><![CDATA[Discussions tagged in Congratulations]]></description>
+		<link>http://vanilla.stackideas.com/discussions/index</link>
+		<lastBuildDate>Fri, 27 Dec 2019 20:01:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/discussions/tags/congratulations?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Congratulations! You have successfully installed EasyDiscuss</title>
+			<link>http://vanilla.stackideas.com/discussions/congratulations-succesfully-installed-easydiscuss</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/congratulations-succesfully-installed-easydiscuss</guid>
+			<description><![CDATA[Congratulations! You have successfully installed EasyDiscuss and ready to post your first question!]]></description>
+			<pubDate>Fri, 10 Nov 2017 06:27:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

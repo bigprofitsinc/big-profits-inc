@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Fantasy Football</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/community/groups/9-fansy</id>
+	<updated>2019-12-27T19:08:17+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/community/groups/9-fansy?format=feed"/>
+	<entry>
+		<title>
+	
+		
+	Luana
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2019-03-16T04:19:28+00:00</published>
+		<updated>2019-03-16T04:19:28+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Luana</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Demo
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2019-02-05T15:38:55+00:00</published>
+		<updated>2019-02-05T15:38:55+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	test test2
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-03-05T08:10:39+00:00</published>
+		<updated>2018-03-05T08:10:39+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>test test2</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Jean-Francois Robert
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-01-18T01:53:20+00:00</published>
+		<updated>2018-01-18T01:53:20+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Jean-Francois Robert</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Jerry Thompson
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-01-08T12:43:25+00:00</published>
+		<updated>2018-01-08T12:43:25+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Jerry Thompson</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Ada Donie Abdullah
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-01-07T15:53:54+00:00</published>
+		<updated>2018-01-07T15:53:54+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Ada Donie Abdullah</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Arno delporto
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-11-26T14:10:09+00:00</published>
+		<updated>2017-11-26T14:10:09+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Arno delporto</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Barry Böhme
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-11-01T18:15:13+00:00</published>
+		<updated>2017-11-01T18:15:13+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Barry Böhme</name>
+		</author>
+		<category term="groups" />
+	</entry>
+</feed>

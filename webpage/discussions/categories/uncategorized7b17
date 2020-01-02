@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Discussions</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://bigprofitsinc.com"/>
+	<id>http://bigprofitsinc.com/discussions/categories/uncategorized</id>
+	<updated>2019-12-28T02:31:07+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://bigprofitsinc.com/discussions/categories/uncategorized?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Integration EasySocial and EasyDiscuss</title>
+		<link rel="alternate" type="text/html" href="http://bigprofitsinc.com/discussions/integration-easysocial-and-easydiscuss"/>
+		<published>2019-09-03T13:29:15+00:00</published>
+		<updated>2019-09-03T13:29:15+00:00</updated>
+		<id>http://bigprofitsinc.com/discussions/integration-easysocial-and-easydiscuss</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">Hi, will this be visible in the timeline of EasySocial? That would be great!!!</summary>
+		<content type="html">Hi, will this be visible in the timeline of EasySocial? That would be great!!!</content>
+		<category term="Uncategories" />
+	</entry>
+	<entry>
+		<title>Test Discussion</title>
+		<link rel="alternate" type="text/html" href="http://bigprofitsinc.com/discussions/test-discussion"/>
+		<published>2019-02-12T08:36:48+00:00</published>
+		<updated>2019-02-12T08:36:48+00:00</updated>
+		<id>http://bigprofitsinc.com/discussions/test-discussion</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">Will this be shown in the EasySocial Timeline?</summary>
+		<content type="html">Will this be shown in the EasySocial Timeline?</content>
+		<category term="Uncategories" />
+	</entry>
+	<entry>
+		<title>test question</title>
+		<link rel="alternate" type="text/html" href="http://bigprofitsinc.com/discussions/test-question"/>
+		<published>2018-02-05T06:26:12+00:00</published>
+		<updated>2018-02-05T06:26:12+00:00</updated>
+		<id>http://bigprofitsinc.com/discussions/test-question</id>
+		<author>
+			<name>vowswu</name>
+		</author>
+		<summary type="html">test</summary>
+		<content type="html">test</content>
+		<category term="Uncategories" />
+	</entry>
+	<entry>
+		<title>This is a question about EasyDiscuss and EasySocial !</title>
+		<link rel="alternate" type="text/html" href="http://bigprofitsinc.com/discussions/this-is-a-question-about-easydiscuss-and-easysocial"/>
+		<published>2017-11-13T09:46:24+00:00</published>
+		<updated>2017-11-13T09:46:24+00:00</updated>
+		<id>http://bigprofitsinc.com/discussions/this-is-a-question-about-easydiscuss-and-easysocial</id>
+		<author>
+			<name>jan med med</name>
+		</author>
+		<summary type="html">The biggest, meanest antagonist showed me the light side of the mean guy. No mean guy considers himself to be evil — everything he does is intended for good. He revealed his soft, pale underbelly and I saw how grievously wrong things had turned out for him, how lost and defeated he lives, and how he aches to accomplish something lasting, powerful, and important no matter what it takes, no matter the casualties.&lt;br&gt;
+&lt;br&gt;
+I learned point of view and voice, practicing first person and third person in successive drafts, deepening my appreciation for their opportunities and limits . Reluctantly, I admitted and adjusted my enthusiastic reliance on adverbs and florid description. I studied continuously and used what I learned. More times than I want to remember, I stunned a teacher by thanking them for blowing up and progressing my craft and my story.&lt;br&gt;
+&lt;br&gt;
+This novel has been thrashed out and discussed with others. It has also been read by many generous, discerning early readers. Various versions have been workshopped and shared with critique groups. Right now, the novel and I are in deep revision and in the hands of an adept, smart, supportive critique partner.&lt;br&gt;
+&lt;br&gt;
+Right ?</summary>
+		<content type="html">The biggest, meanest antagonist showed me the light side of the mean guy. No mean guy considers himself to be evil — everything he does is intended for good. He revealed his soft, pale underbelly and I saw how grievously wrong things had turned out for him, how lost and defeated he lives, and how he aches to accomplish something lasting, powerful, and important no matter what it takes, no matter the casualties.&lt;br&gt;
+&lt;br&gt;
+I learned point of view and voice, practicing first person and third person in successive drafts, deepening my appreciation for their opportunities and limits . Reluctantly, I admitted and adjusted my enthusiastic reliance on adverbs and florid description. I studied continuously and used what I learned. More times than I want to remember, I stunned a teacher by thanking them for blowing up and progressing my craft and my story.&lt;br&gt;
+&lt;br&gt;
+This novel has been thrashed out and discussed with others. It has also been read by many generous, discerning early readers. Various versions have been workshopped and shared with critique groups. Right now, the novel and I are in deep revision and in the hands of an adept, smart, supportive critique partner.&lt;br&gt;
+&lt;br&gt;
+Right ?</content>
+		<category term="Uncategories" />
+	</entry>
+	<entry>
+		<title>Congratulations! You have successfully installed EasyDiscuss</title>
+		<link rel="alternate" type="text/html" href="http://bigprofitsinc.com/discussions/congratulations-succesfully-installed-easydiscuss"/>
+		<published>2017-11-10T06:27:51+00:00</published>
+		<updated>2017-11-10T06:27:51+00:00</updated>
+		<id>http://bigprofitsinc.com/discussions/congratulations-succesfully-installed-easydiscuss</id>
+		<author>
+			<name>Ben Abraham</name>
+		</author>
+		<summary type="html">Congratulations! You have successfully installed EasyDiscuss and ready to post your first question!</summary>
+		<content type="html">Congratulations! You have successfully installed EasyDiscuss and ready to post your first question!</content>
+		<category term="Uncategories" />
+	</entry>
+	<entry>
+		<title>Thank you for choosing EasyDiscuss</title>
+		<link rel="alternate" type="text/html" href="http://bigprofitsinc.com/discussions/thank-you-for-choosing-easydiscuss"/>
+		<published>2017-11-10T06:27:51+00:00</published>
+		<updated>2017-11-10T06:27:51+00:00</updated>
+		<id>http://bigprofitsinc.com/discussions/thank-you-for-choosing-easydiscuss</id>
+		<author>
+			<name>Ben Abraham</name>
+		</author>
+		<summary type="html">Thank you for choosing EasyDiscuss as your preferred discussion tool for your Joomla! website. We hope you find it useful in achieving your needs.</summary>
+		<content type="html">Thank you for choosing EasyDiscuss as your preferred discussion tool for your Joomla! website. We hope you find it useful in achieving your needs.</content>
+		<category term="Uncategories" />
+	</entry>
+</feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Thank You</title>
+	<subtitle type="text">Discussions tagged in Thank You</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/discussions/tags/thank-you</id>
+	<updated>2019-12-27T20:00:22+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/discussions/tags/thank-you?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Thank you for choosing EasyDiscuss</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com/discussions/thank-you-for-choosing-easydiscuss"/>
+		<published>2017-11-10T06:27:51+00:00</published>
+		<updated>2017-11-10T06:27:51+00:00</updated>
+		<id>http://vanilla.stackideas.com/discussions/thank-you-for-choosing-easydiscuss</id>
+		<author>
+			<name>Ben Abraham</name>
+		</author>
+		<summary type="html">Thank you for choosing EasyDiscuss as your preferred discussion tool for your Joomla! website. We hope you find it useful in achieving your needs.</summary>
+		<content type="html">Thank you for choosing EasyDiscuss as your preferred discussion tool for your Joomla! website. We hope you find it useful in achieving your needs.</content>
+	</entry>
+</feed>

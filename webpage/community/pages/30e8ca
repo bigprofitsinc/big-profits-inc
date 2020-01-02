@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">עסקים</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/community/pages/30</id>
+	<updated>2019-12-27T18:35:40+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/community/pages/30?format=feed"/>
+	<entry>
+		<title>עסקים
+ has been created</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7770"/>
+		<published>2019-08-29T23:31:08+00:00</published>
+		<updated>2019-08-29T23:31:08+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7770</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/page/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/page/medium.png&quot; alt=&quot;עסקים&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30&quot;&gt;עסקים&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/general&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					
+&lt;span data-original-title=&quot;This is a public page, anyone can like and participate in this page&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+	&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;	Public&lt;/span&gt;
+
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					משרד הכלכלה מפעיל תכניות ליוצאי אתיופיה במטרה לסייע להם להשתלב בשוק העבודה.&lt;br /&gt;
+&lt;br /&gt;
+במסגרת הסיוע, פועלת תכנית &quot;יוזמים עסק&quot; המאפשרת השתלבות בקורסי היזמות של הסוכנות לעסקים קטנים ובינוניים.&lt;br /&gt;
+התכנית כוללת:&lt;br /&gt;
+ליווי בעיבוד רעיון להקמת עסק חדש.&lt;br /&gt;
+בניית תכנית עסקית.&lt;br /&gt;
+הכנת אסטרטגיה עסקית.&lt;br /&gt;
+גיוס משאבים.				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-image&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30/51-followers&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Like									&lt;/a&gt;
+			&lt;/span&gt;
+
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+
+&lt;a class=&quot;btn btn-es-default-o btn-sm&quot; href=&quot;http://vanilla.stackideas.com/javascript:void(0);&quot; data-es-pages-like data-id=&quot;30&quot; data-page-reload=&quot;&quot;&gt;
+	Like Page&lt;/a&gt;
+
+
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+		&lt;/nav&gt;
+
+
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/page/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/page/medium.png&quot; alt=&quot;עסקים&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30&quot;&gt;עסקים&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/general&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					
+&lt;span data-original-title=&quot;This is a public page, anyone can like and participate in this page&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+	&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;	Public&lt;/span&gt;
+
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					משרד הכלכלה מפעיל תכניות ליוצאי אתיופיה במטרה לסייע להם להשתלב בשוק העבודה.&lt;br /&gt;
+&lt;br /&gt;
+במסגרת הסיוע, פועלת תכנית &quot;יוזמים עסק&quot; המאפשרת השתלבות בקורסי היזמות של הסוכנות לעסקים קטנים ובינוניים.&lt;br /&gt;
+התכנית כוללת:&lt;br /&gt;
+ליווי בעיבוד רעיון להקמת עסק חדש.&lt;br /&gt;
+בניית תכנית עסקית.&lt;br /&gt;
+הכנת אסטרטגיה עסקית.&lt;br /&gt;
+גיוס משאבים.				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-image&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/30/51-followers&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Like									&lt;/a&gt;
+			&lt;/span&gt;
+
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+
+&lt;a class=&quot;btn btn-es-default-o btn-sm&quot; href=&quot;http://vanilla.stackideas.com/javascript:void(0);&quot; data-es-pages-like data-id=&quot;30&quot; data-page-reload=&quot;&quot;&gt;
+	Like Page&lt;/a&gt;
+
+
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+		&lt;/nav&gt;
+
+
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="pages" />
+	</entry>
+	<entry>
+		<title>
+
+עסקים
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7771"/>
+		<published>2019-08-29T23:32:46+00:00</published>
+		<updated>2019-08-29T23:32:46+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7771</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">dsss</summary>
+		<content type="html">dsss</content>
+		<category term="story" />
+	</entry>
+</feed>

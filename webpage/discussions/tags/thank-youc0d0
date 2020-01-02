@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thank You</title>
+		<description><![CDATA[Discussions tagged in Thank You]]></description>
+		<link>http://vanilla.stackideas.com/discussions/index</link>
+		<lastBuildDate>Fri, 27 Dec 2019 20:00:21 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/discussions/tags/thank-you?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Thank you for choosing EasyDiscuss</title>
+			<link>http://vanilla.stackideas.com/discussions/thank-you-for-choosing-easydiscuss</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/discussions/thank-you-for-choosing-easydiscuss</guid>
+			<description><![CDATA[Thank you for choosing EasyDiscuss as your preferred discussion tool for your Joomla! website. We hope you find it useful in achieving your needs.]]></description>
+			<pubDate>Fri, 10 Nov 2017 06:27:51 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

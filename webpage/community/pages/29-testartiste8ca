@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Testartist</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/community/pages/29-testartist</id>
+	<updated>2019-12-27T18:27:37+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/community/pages/29-testartist?format=feed"/>
+	<entry>
+		<title>
+
+Testartist
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7702"/>
+		<published>2019-06-19T20:02:59+00:00</published>
+		<updated>2019-06-19T20:02:59+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7702</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">Hello Demo! </summary>
+		<content type="html">Hello Demo! </content>
+		<category term="story" />
+	</entry>
+	<entry>
+		<title>
+	
+	
+		
+	Demo
+
+	   
+
+Testartist
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7701"/>
+		<published>2019-06-19T20:02:30+00:00</published>
+		<updated>2019-06-19T20:02:30+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7701</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">Hello! &lt;img class=&quot;emoji&quot; src=&quot;http://vanilla.stackideas.com/media/com_easysocial/images/icons/emoji/blush.png&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;</summary>
+		<content type="html">Hello! &lt;img class=&quot;emoji&quot; src=&quot;http://vanilla.stackideas.com/media/com_easysocial/images/icons/emoji/blush.png&quot; width=&quot;20&quot; height=&quot;20&quot;&gt;</content>
+		<category term="story" />
+	</entry>
+	<entry>
+		<title>Testartist
+ posted an announcement</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7700"/>
+		<published>2019-06-19T20:01:11+00:00</published>
+		<updated>2019-06-19T20:01:11+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7700</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist/53-announcements/item/3&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            My first announcement        &lt;/a&gt;
+                &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt;&amp;nbsp; Wednesday, 19 June 2019        &lt;/div&gt;
+        
+        &lt;i class=&quot;fa fa-bullhorn es-stream-apps__state&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;&lt;p&gt;This is my first announcement. Please comment!&lt;/p&gt;&lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist/53-announcements/item/3&quot;&gt;Continue Reading &amp;rarr;&lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist/53-announcements/item/3&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            My first announcement        &lt;/a&gt;
+                &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            &lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt;&amp;nbsp; Wednesday, 19 June 2019        &lt;/div&gt;
+        
+        &lt;i class=&quot;fa fa-bullhorn es-stream-apps__state&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;&lt;p&gt;This is my first announcement. Please comment!&lt;/p&gt;&lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist/53-announcements/item/3&quot;&gt;Continue Reading &amp;rarr;&lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="news" />
+	</entry>
+	<entry>
+		<title>Testartist
+ has been created</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7699"/>
+		<published>2019-06-19T19:59:49+00:00</published>
+		<updated>2019-06-19T19:59:49+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/7699</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/page/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/page/medium.png&quot; alt=&quot;Testartist&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist&quot;&gt;Testartist&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/artist-or-band&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; Artist or Band					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					
+&lt;span data-original-title=&quot;This is a public page, anyone can like and participate in this page&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+	&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;	Public&lt;/span&gt;
+
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					Das ist die Beschreibung				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-image&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist/51-followers&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Like									&lt;/a&gt;
+			&lt;/span&gt;
+
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+
+&lt;a class=&quot;btn btn-es-default-o btn-sm&quot; href=&quot;http://vanilla.stackideas.com/javascript:void(0);&quot; data-es-pages-like data-id=&quot;29&quot; data-page-reload=&quot;&quot;&gt;
+	Like Page&lt;/a&gt;
+
+
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+		&lt;/nav&gt;
+
+
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/page/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/page/medium.png&quot; alt=&quot;Testartist&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist&quot;&gt;Testartist&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/artist-or-band&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; Artist or Band					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;t-text--muted&quot;&gt;
+					
+&lt;span data-original-title=&quot;This is a public page, anyone can like and participate in this page&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+	&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;	Public&lt;/span&gt;
+
+
+				&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					Das ist die Beschreibung				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-image&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/pages/29-testartist/51-followers&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											0 Like									&lt;/a&gt;
+			&lt;/span&gt;
+
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					
+
+&lt;a class=&quot;btn btn-es-default-o btn-sm&quot; href=&quot;http://vanilla.stackideas.com/javascript:void(0);&quot; data-es-pages-like data-id=&quot;29&quot; data-page-reload=&quot;&quot;&gt;
+	Like Page&lt;/a&gt;
+
+
+				&lt;/div&gt;
+			&lt;/div&gt;
+
+		&lt;/nav&gt;
+
+
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="pages" />
+	</entry>
+</feed>

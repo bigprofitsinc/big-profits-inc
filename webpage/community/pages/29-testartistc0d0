@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Testartist</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://vanilla.stackideas.com</link>
+		<lastBuildDate>Fri, 27 Dec 2019 18:27:36 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/community/pages/29-testartist?format=feed"/>
+		<language>en-gb</language>
+		<item>
+			<title>
+
+Testartist
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/7702</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/7702</guid>
+			<description><![CDATA[Hello Demo! ]]></description>
+			<category>story</category>
+			<pubDate>Wed, 19 Jun 2019 20:02:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+	
+		
+	Demo
+
+	   
+
+Testartist
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/7701</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/7701</guid>
+			<description><![CDATA[Hello! <img class="emoji" src="http://vanilla.stackideas.com/media/com_easysocial/images/icons/emoji/blush.png" width="20" height="20">]]></description>
+			<category>story</category>
+			<pubDate>Wed, 19 Jun 2019 20:02:30 +0000</pubDate>
+		</item>
+		<item>
+			<title>Testartist
+ posted an announcement</title>
+			<link>http://vanilla.stackideas.com/stream/item/7700</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/7700</guid>
+			<description><![CDATA[<div class="es-stream-apps type-discuss">
+    <div class="es-stream-apps__hd">
+        <a href="http://vanilla.stackideas.com/community/pages/29-testartist/53-announcements/item/3" class="es-stream-apps__title">
+            My first announcement        </a>
+                <div class="es-stream-apps__meta t-fs--sm">
+            <i class="fa fa-calendar"></i>&nbsp; Wednesday, 19 June 2019        </div>
+        
+        <i class="fa fa-bullhorn es-stream-apps__state"></i>
+    </div>
+
+    <div class="es-stream-apps__bd es-stream-apps--border">
+
+        <div class="es-stream-apps__desc"><p>This is my first announcement. Please comment!</p></div>
+
+        <ol class="g-list--horizontal has-dividers--right">
+            <li class="g-list__item">
+                <a href="http://vanilla.stackideas.com/community/pages/29-testartist/53-announcements/item/3">Continue Reading &rarr;</a>
+            </li>
+        </ol>
+    </div>
+</div>
+]]></description>
+			<category>news</category>
+			<pubDate>Wed, 19 Jun 2019 20:01:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>Testartist
+ has been created</title>
+			<link>http://vanilla.stackideas.com/stream/item/7699</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/7699</guid>
+			<description><![CDATA[<div class="es-profile-header es-profile-header--mini">
+	<div class="es-profile-header__hd with-cover">
+		<div class="es-profile-header__cover es-flyout no-cover" style="background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/page/default.jpg); background-position: 0% 0%;">
+			<div class="es-cover-container">
+
+			</div>
+		</div>
+		<div class="es-profile-header__avatar-wrap es-flyout" data-profile-avatar="">
+			<a href="http://vanilla.stackideas.com/community/pages/29-testartist">
+				<img src="http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/page/medium.png" alt="Testartist">
+			</a>
+		</div>
+	</div>
+
+	<div class="es-profile-header__bd">
+		<div class="t-lg-pull-left">
+			<h2 class="es-profile-header__title">
+				<a href="http://vanilla.stackideas.com/community/pages/29-testartist">Testartist</a>
+			</h2>
+
+			<ul class="g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md">
+				<li class="t-text--muted">
+					<a href="http://vanilla.stackideas.com/artist-or-band">
+						<i class="fa fa-folder"></i>&nbsp; Artist or Band					</a>
+				</li>
+
+				<li class="t-text--muted">
+					
+<span data-original-title="This is a public page, anyone can like and participate in this page" data-es-provide="tooltip" data-placement="bottom">
+	<i class="fa fa-globe-americas"></i>&nbsp;&nbsp;	Public</span>
+
+
+				</li>
+			</ul>
+
+			<div class="es-teaser-about t-lg-mt--md">
+				<div class="">
+					Das ist die Beschreibung				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="es-profile-header__ft">
+		<nav class="o-nav es-nav-pills">
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/pages/29/albums" class="o-nav__link">
+					<i class="far fa-image"></i>&nbsp;
+											1 Album									</a>
+			</span>
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/pages/29-testartist/51-followers" class="o-nav__link">
+					<i class="fa fa-users"></i>&nbsp;
+											0 Like									</a>
+			</span>
+
+			
+			<div role="toolbar" class="btn-toolbar t-pull-right">
+				<div class="o-btn-group">
+					
+
+<a class="btn btn-es-default-o btn-sm" href="http://vanilla.stackideas.com/javascript:void(0);" data-es-pages-like data-id="29" data-page-reload="">
+	Like Page</a>
+
+
+				</div>
+			</div>
+
+		</nav>
+
+
+	</div>
+</div>
+]]></description>
+			<category>pages</category>
+			<pubDate>Wed, 19 Jun 2019 19:59:49 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
