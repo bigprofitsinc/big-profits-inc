@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd" >
+    <service>
+        <engineName>EasyBlog</engineName> 
+        <engineLink>http://bigprofitsinc.com/</engineLink>
+        <siteName>Vanilla Template</siteName>
+        <homePageLink>http://bigprofitsinc.com/index.php?option=com_easyblog&amp;tmpl=component</homePageLink>
+        <apis>>
+            <api name="WordPress" blogID="1" preferred="true" apiLink="http://bigprofitsinc.com/index.php?option=com_easyblog&amp;view=xmlrpc&amp;tmpl=component" />
+            <api name="MetaWeblog" preferred="false" apiLink="http://bigprofitsinc.com/index.php?option=com_easyblog&amp;view=xmlrpc&amp;tmpl=component" blogID="1" />
+        </apis>
+    </service>
+</rsd>

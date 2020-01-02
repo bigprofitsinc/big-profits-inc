@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Defense Of The Ancient 2 (Dota 2)</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/single-group-layout</id>
+	<updated>2019-12-27T19:08:53+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/single-group-layout?format=feed&amp;type=atom"/>
+	<entry>
+		<title>
+	
+		
+	Arno delporto
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-11-26T14:10:10+00:00</published>
+		<updated>2017-11-26T14:10:10+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Arno delporto</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Sergio Antoniolli
+
+	 added a new task</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/543"/>
+		<published>2017-11-02T14:07:02+00:00</published>
+		<updated>2017-11-02T14:07:02+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/543</id>
+		<author>
+			<name>Sergio Antoniolli</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-3&quot; value=&quot;3&quot; data-task-checkbox  disabled=&quot;disabled&quot; data-id=&quot;3&quot; /&gt;
+					&lt;label for=&quot;task-3&quot;&gt;
+						Find investors 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&amp;nbsp; &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/436-sergio&quot; alt=&quot;Sergio Antoniolli&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Sergio Antoniolli&lt;/a&gt;
+
+					&lt;/li&gt;
+												&lt;li&gt;
+					Due on Tuesday, 07 November 2017				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-3&quot; value=&quot;3&quot; data-task-checkbox  disabled=&quot;disabled&quot; data-id=&quot;3&quot; /&gt;
+					&lt;label for=&quot;task-3&quot;&gt;
+						Find investors 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&amp;nbsp; &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/436-sergio&quot; alt=&quot;Sergio Antoniolli&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Sergio Antoniolli&lt;/a&gt;
+
+					&lt;/li&gt;
+												&lt;li&gt;
+					Due on Tuesday, 07 November 2017				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Sergio Antoniolli
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-10-20T18:18:00+00:00</published>
+		<updated>2017-10-20T18:18:00+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Sergio Antoniolli</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	James Liao
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-10-14T12:59:21+00:00</published>
+		<updated>2017-10-14T12:59:21+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>James Liao</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>	
+	
+		
+	Zoey Brandia
+
+	 reposted 
+	
+		
+	Wayne  Rooney
+
+	's post</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/215"/>
+		<published>2017-10-14T02:22:33+00:00</published>
+		<updated>2017-10-14T02:22:33+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/215</id>
+		<author>
+			<name>Zoey Brandia</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-repost&quot;&gt;
+
+	
+	&lt;div class=&quot;es-stream-repost__meta&quot;&gt;
+		&lt;div class=&quot;es-stream-repost__meta-inner&quot;&gt;
+
+						&lt;div class=&quot;es-stream-repost__heading t-text--muted t-lg-mb--md&quot;&gt;
+				&lt;i class=&quot;fa fa-retweet&quot;&gt;&lt;/i&gt;&amp;nbsp; Reposted from &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/409-wayne-rooney&quot; alt=&quot;Wayne  Rooney&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Wayne  Rooney&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			&lt;/div&gt;
+						
+			&lt;div class=&quot;es-stream-repost__content&quot;&gt;
+							&lt;/div&gt;
+			
+						&lt;div class=&quot;es-stream-repost__preview&quot;&gt;
+				&lt;div class=&quot;es-stream-embed is-video&quot;&gt;
+	&lt;div class=&quot;es-stream-embed__player&quot;&gt;
+
+		
+					&lt;div class=&quot;video-container &quot;
+				 data-video-container
+				 data-video-ratio=&quot;&quot;&gt;
+								&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/rYGK62le_3E?feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;						&lt;/div&gt;
+			&lt;/div&gt;
+
+	&lt;a href=&quot;http://vanilla.stackideas.com/single-group-layout/videos/13-top-15-epic-jukes-in-dota-2-history&quot; class=&quot;es-stream-embed__title es-stream-embed--border&quot;&gt;Top 15 Epic Jukes in Dota 2 History&lt;/a&gt;
+
+	&lt;div class=&quot;es-stream-embed__meta&quot;&gt;
+		&lt;ul class=&quot;g-list-inline g-list-inline--space-right&quot;&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/single-group-layout/videos/categories/3-sports&quot;&gt;&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; Sports&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt;&amp;nbsp; Friday, 13 October 2017			&lt;/li&gt;
+						&lt;li&gt;
+				&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt; 199			&lt;/li&gt;
+					&lt;/ul&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-embed__desc&quot;&gt;
+		Top 15 Jukes and Clutch Escape from Dota 2 competitive scene. Subscribe ► https://goo.gl/iZKueY Pro Players Stream Best Moments and Funny Highlights ► https:...	&lt;/div&gt;
+&lt;/div&gt;
+			&lt;/div&gt;
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;es-stream-repost&quot;&gt;
+
+	
+	&lt;div class=&quot;es-stream-repost__meta&quot;&gt;
+		&lt;div class=&quot;es-stream-repost__meta-inner&quot;&gt;
+
+						&lt;div class=&quot;es-stream-repost__heading t-text--muted t-lg-mb--md&quot;&gt;
+				&lt;i class=&quot;fa fa-retweet&quot;&gt;&lt;/i&gt;&amp;nbsp; Reposted from &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/409-wayne-rooney&quot; alt=&quot;Wayne  Rooney&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Wayne  Rooney&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			&lt;/div&gt;
+						
+			&lt;div class=&quot;es-stream-repost__content&quot;&gt;
+							&lt;/div&gt;
+			
+						&lt;div class=&quot;es-stream-repost__preview&quot;&gt;
+				&lt;div class=&quot;es-stream-embed is-video&quot;&gt;
+	&lt;div class=&quot;es-stream-embed__player&quot;&gt;
+
+		
+					&lt;div class=&quot;video-container &quot;
+				 data-video-container
+				 data-video-ratio=&quot;&quot;&gt;
+								&lt;iframe width=&quot;1280&quot; height=&quot;720&quot; src=&quot;https://www.youtube.com/embed/rYGK62le_3E?feature=oembed&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;						&lt;/div&gt;
+			&lt;/div&gt;
+
+	&lt;a href=&quot;http://vanilla.stackideas.com/single-group-layout/videos/13-top-15-epic-jukes-in-dota-2-history&quot; class=&quot;es-stream-embed__title es-stream-embed--border&quot;&gt;Top 15 Epic Jukes in Dota 2 History&lt;/a&gt;
+
+	&lt;div class=&quot;es-stream-embed__meta&quot;&gt;
+		&lt;ul class=&quot;g-list-inline g-list-inline--space-right&quot;&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/single-group-layout/videos/categories/3-sports&quot;&gt;&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; Sports&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;i class=&quot;fa fa-calendar&quot;&gt;&lt;/i&gt;&amp;nbsp; Friday, 13 October 2017			&lt;/li&gt;
+						&lt;li&gt;
+				&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt; 199			&lt;/li&gt;
+					&lt;/ul&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-embed__desc&quot;&gt;
+		Top 15 Jukes and Clutch Escape from Dota 2 competitive scene. Subscribe ► https://goo.gl/iZKueY Pro Players Stream Best Moments and Funny Highlights ► https:...	&lt;/div&gt;
+&lt;/div&gt;
+			&lt;/div&gt;
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="shares" />
+	</entry>
+	<entry>
+		<title>
+	
+	
+		
+	Wayne  Rooney
+
+	
+
+Defense Of The Ancient 2 (Dota 2)
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/117"/>
+		<published>2017-10-13T11:14:37+00:00</published>
+		<updated>2017-10-13T11:14:37+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/117</id>
+		<author>
+			<name>Wayne  Rooney</name>
+		</author>
+		<summary type="html">Next TI major?</summary>
+		<content type="html">Next TI major?</content>
+		<category term="story" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Andy Tester
+
+	 joined this group</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-10-13T19:50:17+00:00</published>
+		<updated>2017-10-13T19:50:17+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Andy Tester</name>
+		</author>
+		<category term="groups" />
+	</entry>
+	<entry>
+		<title>	
+	
+		
+	Andy Tester
+
+	 reposted 
+	
+		
+	Wayne  Rooney
+
+	's post</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/188"/>
+		<published>2017-10-13T19:49:58+00:00</published>
+		<updated>2017-10-13T19:49:58+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/188</id>
+		<author>
+			<name>Andy Tester</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-repost&quot;&gt;
+
+		&lt;div class=&quot;es-stream-repost__text t-lg-mb--md&quot;&gt;Test Repost&lt;/div&gt;
+	
+	&lt;div class=&quot;es-stream-repost__meta&quot;&gt;
+		&lt;div class=&quot;es-stream-repost__meta-inner&quot;&gt;
+
+						&lt;div class=&quot;es-stream-repost__heading t-text--muted t-lg-mb--md&quot;&gt;
+				&lt;i class=&quot;fa fa-retweet&quot;&gt;&lt;/i&gt;&amp;nbsp; Reposted from &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/409-wayne-rooney&quot; alt=&quot;Wayne  Rooney&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Wayne  Rooney&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			&lt;/div&gt;
+						
+			&lt;div class=&quot;es-stream-repost__content&quot;&gt;
+				&lt;div class=&quot;es-data-truncater&quot; data-es-truncater&gt;
+	&lt;div data-text class=&quot;fd-cf&quot;&gt;Next TI major?&lt;span class=&quot;es-stream-info-meta&quot;&gt;
+	&amp;#8207;
+	&amp;mdash;
+	with &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/413-eztune&quot; alt=&quot;Eztune&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;413&quot;
+		&gt;
+	
+		
+	Eztune&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/412-panda&quot; alt=&quot;Panda Sam&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;412&quot;
+		&gt;
+	
+		
+	Panda Sam&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			at
+	&lt;a href=&quot;http://vanilla.stackideas.com/javascript:void(0)&quot; data-location-link
+				&gt;
+		31, The Gardens South Tower, 75, Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia	&lt;/a&gt;
+	&lt;/span&gt;
+...&lt;/div&gt;
+	&lt;div class=&quot;t-hidden&quot; data-original&gt;Next TI major?&lt;span class=&quot;es-stream-info-meta&quot;&gt;
+	&amp;#8207;
+	&amp;mdash;
+	with &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/413-eztune&quot; alt=&quot;Eztune&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;413&quot;
+		&gt;
+	
+		
+	Eztune&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/412-panda&quot; alt=&quot;Panda Sam&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;412&quot;
+		&gt;
+	
+		
+	Panda Sam&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			at
+	&lt;a href=&quot;http://vanilla.stackideas.com/javascript:void(0)&quot; data-location-link
+				&gt;
+		31, The Gardens South Tower, 75, Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia	&lt;/a&gt;
+	&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;a href=&quot;http://vanilla.stackideas.com/javascript:void(0);&quot; data-readmore&gt;More&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;/div&gt;
+			
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;es-stream-repost&quot;&gt;
+
+		&lt;div class=&quot;es-stream-repost__text t-lg-mb--md&quot;&gt;Test Repost&lt;/div&gt;
+	
+	&lt;div class=&quot;es-stream-repost__meta&quot;&gt;
+		&lt;div class=&quot;es-stream-repost__meta-inner&quot;&gt;
+
+						&lt;div class=&quot;es-stream-repost__heading t-text--muted t-lg-mb--md&quot;&gt;
+				&lt;i class=&quot;fa fa-retweet&quot;&gt;&lt;/i&gt;&amp;nbsp; Reposted from &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/409-wayne-rooney&quot; alt=&quot;Wayne  Rooney&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Wayne  Rooney&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			&lt;/div&gt;
+						
+			&lt;div class=&quot;es-stream-repost__content&quot;&gt;
+				&lt;div class=&quot;es-data-truncater&quot; data-es-truncater&gt;
+	&lt;div data-text class=&quot;fd-cf&quot;&gt;Next TI major?&lt;span class=&quot;es-stream-info-meta&quot;&gt;
+	&amp;#8207;
+	&amp;mdash;
+	with &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/413-eztune&quot; alt=&quot;Eztune&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;413&quot;
+		&gt;
+	
+		
+	Eztune&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/412-panda&quot; alt=&quot;Panda Sam&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;412&quot;
+		&gt;
+	
+		
+	Panda Sam&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			at
+	&lt;a href=&quot;http://vanilla.stackideas.com/javascript:void(0)&quot; data-location-link
+				&gt;
+		31, The Gardens South Tower, 75, Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia	&lt;/a&gt;
+	&lt;/span&gt;
+...&lt;/div&gt;
+	&lt;div class=&quot;t-hidden&quot; data-original&gt;Next TI major?&lt;span class=&quot;es-stream-info-meta&quot;&gt;
+	&amp;#8207;
+	&amp;mdash;
+	with &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/413-eztune&quot; alt=&quot;Eztune&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;413&quot;
+		&gt;
+	
+		
+	Eztune&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt; and &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/412-panda&quot; alt=&quot;Panda Sam&quot; class=&quot;&quot; style=&quot;&quot;
+		data-popbox=&quot;module://easysocial/profile/popbox&quot;
+	data-popbox-position=&quot;top-left&quot;
+	data-user-id=&quot;412&quot;
+		&gt;
+	
+		
+	Panda Sam&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;			at
+	&lt;a href=&quot;http://vanilla.stackideas.com/javascript:void(0)&quot; data-location-link
+				&gt;
+		31, The Gardens South Tower, 75, Lingkaran Syed Putra, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia	&lt;/a&gt;
+	&lt;/span&gt;
+&lt;/div&gt;
+
+		&lt;a href=&quot;http://vanilla.stackideas.com/javascript:void(0);&quot; data-readmore&gt;More&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;/div&gt;
+			
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="shares" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Panda Sam
+
+	 added a new task</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/122"/>
+		<published>2017-10-13T11:18:27+00:00</published>
+		<updated>2017-10-13T11:18:27+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/122</id>
+		<author>
+			<name>Panda Sam</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-2&quot; value=&quot;2&quot; data-task-checkbox  disabled=&quot;disabled&quot; data-id=&quot;2&quot; /&gt;
+					&lt;label for=&quot;task-2&quot;&gt;
+						Get A Rampage 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&amp;nbsp; &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/409-wayne-rooney&quot; alt=&quot;Wayne  Rooney&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Wayne  Rooney&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Sunday, 31 December 2017				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-2&quot; value=&quot;2&quot; data-task-checkbox  disabled=&quot;disabled&quot; data-id=&quot;2&quot; /&gt;
+					&lt;label for=&quot;task-2&quot;&gt;
+						Get A Rampage 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&amp;nbsp; &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/409-wayne-rooney&quot; alt=&quot;Wayne  Rooney&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Wayne  Rooney&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;				&lt;/li&gt;
+												&lt;li&gt;
+					Due on Sunday, 31 December 2017				&lt;/li&gt;
+							&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="tasks" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Wayne  Rooney
+
+	 added a new task</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/121"/>
+		<published>2017-10-13T11:16:39+00:00</published>
+		<updated>2017-10-13T11:16:39+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/121</id>
+		<author>
+			<name>Wayne  Rooney</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;completed&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-1&quot; value=&quot;1&quot; data-task-checkbox  checked=&quot;checked&quot; disabled=&quot;disabled&quot; data-id=&quot;1&quot; /&gt;
+					&lt;label for=&quot;task-1&quot;&gt;
+						FInd support 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&amp;nbsp; &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/413-eztune&quot; alt=&quot;Eztune&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Eztune&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;				&lt;/li&gt;
+											&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-tasks&quot;&gt;
+	&lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__title&quot;&gt;Tasks:&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+		&lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+						&lt;div class=&quot;completed&quot;&gt;
+				&lt;div class=&quot;o-checkbox&quot;&gt;
+					&lt;input type=&quot;checkbox&quot; id=&quot;task-1&quot; value=&quot;1&quot; data-task-checkbox  checked=&quot;checked&quot; disabled=&quot;disabled&quot; data-id=&quot;1&quot; /&gt;
+					&lt;label for=&quot;task-1&quot;&gt;
+						FInd support 
+					&lt;/label&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed t-text--muted&quot;&gt;
+								&lt;li&gt;
+					&lt;i class=&quot;fa fa-user&quot;&gt;&lt;/i&gt;&amp;nbsp; &lt;a href=&quot;http://vanilla.stackideas.com/community/profile/413-eztune&quot; alt=&quot;Eztune&quot; class=&quot;&quot; style=&quot;&quot;
+		&gt;
+	
+		
+	Eztune&lt;/a&gt;
+
+	&lt;i class=&quot;es-verified&quot; data-es-provide=&quot;tooltip&quot; data-original-title=&quot;Verified User&quot;&gt;&lt;/i&gt;				&lt;/li&gt;
+											&lt;/ul&gt;            
+					&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="tasks" />
+	</entry>
+</feed>

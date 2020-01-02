@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Articles</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://bigprofitsinc.com/articles</link>
+		<lastBuildDate>Fri, 27 Dec 2019 18:18:54 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://bigprofitsinc.com/articles?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Your Modules</title>
+			<link>http://bigprofitsinc.com/articles/5-your-modules</link>
+			<guid isPermaLink="true">http://bigprofitsinc.com/articles/5-your-modules</guid>
+			<description><![CDATA[<p><img src="http://bigprofitsinc.com/easyarticles/images/users/406/photo-1422050478545-9f9383263965.jpg" /></p><p>Your site has some commonly used modules already preconfigured. These include:</p>
+<ul><li>Image Module which holds the image beneath the menu. This is a Custom module that you can edit to change the image.</li><li>Most Read Posts which lists articles based on the number of times they have been read.</li><li>Older Articles which lists out articles by month.</li><li>Syndicate which allows your readers to read your posts in a news reader.</li><li>Popular Tags, which will appear if you use tagging on your articles. Just enter a tag in the Tags field when editing.</li></ul>
+<p>Each of these modules has many options which you can experiment with in the Module Manager in your site Administrator. Moving your mouse over a module and clicking on the edit icon will take you to an edit screen for that module. Always be sure to save and close any module you edit.</p>
+<p>Joomla! also includes many other modules you can incorporate in your site. As you develop your site you may want to add more module that you can find at the <a href="https://extensions.joomla.org/">Joomla Extensions Directory.</a></p>]]></description>
+			<category>Blog</category>
+			<pubDate>Thu, 12 Oct 2017 05:36:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Your Template</title>
+			<link>http://bigprofitsinc.com/articles/6-your-template</link>
+			<guid isPermaLink="true">http://bigprofitsinc.com/articles/6-your-template</guid>
+			<description><![CDATA[<p><img src="http://bigprofitsinc.com/easyarticles/images/users/406/photo-1486520299386-6d106b22014b.jpeg" /></p><p>Templates control the look and feel of your website.</p>
+<p>This blog is installed with the Protostar template.</p>
+<p>You can edit the options by clicking on the Working on Your Site, Template Settings link in the top menu (visible when you login).</p>
+<p>For example you can change the site background color, highlights color, site title, site description and title font used.</p>
+<p>More options are available in the site administrator. You may also install a new template using the extension manager.</p>]]></description>
+			<category>Blog</category>
+			<pubDate>Thu, 12 Oct 2017 05:36:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Vegan Chocolate Pie</title>
+			<link>http://bigprofitsinc.com/articles/7-vegan-chocolate-pie</link>
+			<guid isPermaLink="true">http://bigprofitsinc.com/articles/7-vegan-chocolate-pie</guid>
+			<description><![CDATA[<p><img src="http://bigprofitsinc.com/easyarticles/images/users/434/chocolate-pie.jpg" /></p><h4>DESCRIPTION</h4>
+<table style="table-layout: fixed;"><tbody><tr><td style="width: 65%;border:0;">This vegan chocolate pie is a five-ingredient, no-bake miracle. The ultra-thick and creamy chocolate pie filling is made with (wait for it)&hellip; tofu, almond butter, almond milk, and melted chocolate. Easy!
+This vegan chocolate pie is a five-ingredient, no-bake miracle. The ultra-thick and creamy chocolate pie filling is made with (wait for it)&hellip; tofu, almond butter, almond milk, and melted chocolate. Easy!
+This vegan chocolate pie is a five-ingredient, no-bake miracle. The ultra-thick and creamy chocolate pie filling is made with (wait for it)&hellip; tofu, almond butter, almond milk, and melted chocolate. Easy!
+</td><td style="width: 35%; border:0;"><div class="ea-block-container is-image " data-ea-block="image" draggable="false" data-width="255" data-height="256" contenteditable="false"><figure><img src="http://bigprofitsinc.com//media/com_easyarticles/images/templates/template-blank.png" width="255" height="256"></figure></div></td></tr></tbody></table>
+<hr>
+<h4>INGREDIENTS</h4>
+<h5>For the chocolate pie filling:</h5>
+<ul><li>12 ounces firm&nbsp;<strong>silken firm&nbsp;tofu</strong></li><li>1/2 cup&nbsp;Almond Breeze Chocolate&nbsp;<strong>Almondmilk</strong></li><li>1/2 cup&nbsp;<strong>almond butter</strong></li><li>12 ounces&nbsp;<strong>chocolate chips*</strong></li><li><strong>flaky sea salt</strong>&nbsp;for topping</li></ul>
+<h5>For the Crust:</h5>
+<ul><li>pie crust of your choice! ideas in the notes section.</li></ul>
+<hr>
+<h4>INSTRUCTIONS</h4>
+<ol><li><strong>Chocolate Pie Filling:&nbsp;</strong>Blend the tofu, almondmilk, and almond butter until smooth. Melt the chocolate chips. Add to the blender and blend until smooth – it gets pretty thick so you might need to help it along with a spatula between blends.</li><li><strong>Chocolate Pie Assembly:&nbsp;</strong>Pour filling into a crust, sprinkle with sea salt if you want, and chill for 12-24 hours. Cut and serve!</li></ol>
+<h4>NOTES</h4>
+<ul><li>*For strict vegans, use dairy-free chocolate chips – we found them at stores like Whole Foods.</li><li>We used chocolate almondmilk and it was deeeelicious. Bonus: the leftover milk sitting in my fridge has become my new favorite morning drink of choice.</li><li>Crust ideas: my favorite is a graham cracker crust, and unless I’m missing something major, it looks like most &nbsp;of the store-bought ones are vegan because they use oils instead of butter! Online forums support my findings, but if you know something I don’t, feel free to comment. I also love the idea of an Oreo crust or a regular pie crust, which you can make with coconut oil to be vegan. Also: a date and nut crust could be nice.</li></ul>]]></description>
+			<category>Blog</category>
+			<pubDate>Fri, 20 Oct 2017 01:17:26 +0000</pubDate>
+		</item>
+		<item>
+			<title>About your home page</title>
+			<link>http://bigprofitsinc.com/articles/4-about-your-home-page</link>
+			<guid isPermaLink="true">http://bigprofitsinc.com/articles/4-about-your-home-page</guid>
+			<description><![CDATA[<p><img src="http://bigprofitsinc.com/easyarticles/images/users/406/photo-1422112528461-3186878f87dc.jpeg" /></p><p>Your home page is set to display the four most recent articles from the blog category in a column. Then there are links to the 4 next oldest articles. You can change those numbers by editing the content options settings in the blog tab in your site administrator. There is a link to your site administrator in the top menu.</p>
+<p>If you want to have your blog post broken into two parts, an introduction and then a full length separate page, use the Read More button to insert a break.</p>
+<p>On the full page you will see both the introductory content and the rest of the article. You can change the settings to hide the introduction if you want.</p>
+]]></description>
+			<category>Blog</category>
+			<pubDate>Thu, 12 Oct 2017 05:36:19 +0000</pubDate>
+		</item>
+		<item>
+			<title>Welcome to your blog</title>
+			<link>http://bigprofitsinc.com/articles/3-welcome-to-your-blog</link>
+			<guid isPermaLink="true">http://bigprofitsinc.com/articles/3-welcome-to-your-blog</guid>
+			<description><![CDATA[<p>This is a sample blog posting.</p>
+<p>If you log in to the site (the Author Login link is on the very bottom of this page) you will be able to edit it and all of the other existing articles. You will also be able to create a new article and make other changes to the site.</p>
+<p>As you add and modify articles you will see how your site changes and also how you can customise it in various ways.</p>
+<p>Go ahead, you can't break it.</p>]]></description>
+			<category>Blog</category>
+			<pubDate>Thu, 12 Oct 2017 05:36:19 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

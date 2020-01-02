@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Stack Ideas</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://vanilla.stackideas.com</link>
+		<lastBuildDate>Fri, 27 Dec 2019 18:37:14 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/single-page-layout?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>
+	
+		
+	Demo
+
+	 liked this page</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[]]></description>
+			<category>pages</category>
+			<pubDate>Fri, 24 Aug 2018 12:04:16 +0000</pubDate>
+		</item>
+		<item>
+			<title>	
+	
+		
+	Sergio Antoniolli
+
+	   
+
+Stack Ideas
+</title>
+			<link>http://vanilla.stackideas.com/stream/item/547</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/547</guid>
+			<description><![CDATA[Hi guys. Profile verification icon has not enough padding from name.<br>
+<br>
+Thanks!
+<div class="es-photos photos-1 es-stream-photos pattern-tile"
+	data-es-photo-group="album:35"
+			data-es-photo-streamid="547"
+	>
+			<div class="es-photo es-stream-photo ar-4x3">
+		<a href="http://vanilla.stackideas.com/single-page-layout/photos/133-img-20171102-223319"
+			data-es-photo="133"
+			title="IMG_20171102_223319">
+			<u><b data-mode="cover"
+				data-threshold="128">
+					<img src="http://vanilla.stackideas.com/media/com_easysocial/photos/35/133/img-20171102-223319_large.png"
+						 alt="IMG_20171102_223319"
+						 data-width="1080"
+						 data-height="703"
+						 onload="window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);" />
+			</b></u>
+					</a>
+	</div>
+		</div>
+]]></description>
+			<category>photos</category>
+			<pubDate>Thu, 02 Nov 2017 14:39:43 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Sergio Antoniolli
+
+	 liked this page</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[]]></description>
+			<category>pages</category>
+			<pubDate>Thu, 02 Nov 2017 14:21:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Barry Böhme
+
+	 liked this page</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[]]></description>
+			<category>pages</category>
+			<pubDate>Wed, 01 Nov 2017 18:14:48 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Andy Tester
+
+	 created a new discussion</title>
+			<link>http://vanilla.stackideas.com/stream/item/454</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/454</guid>
+			<description><![CDATA[<div class="es-stream-apps type-discuss">
+    <div class="es-stream-apps__hd">
+        <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/21" class="es-stream-apps__title">
+            Events Calendar Widget        </a>
+        <div class="es-stream-apps__meta t-fs--sm">
+            Posted on Tuesday, 24 October 2017        </div>
+    </div>
+
+    <div class="es-stream-apps__bd es-stream-apps--border">
+        <div class="es-stream-apps__desc">
+            Just wanted to double-check you guys had fixed the calendar widget.. it's still pushed up right to the right hand side of the column at http://vanilla.stackideas.com/events        </div>
+
+        <ol class="g-list--horizontal has-dividers--right">
+            <li class="g-list__item">
+                <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/21">
+                    View Discussion                </a>
+            </li>
+        </ol>
+
+            </div>
+</div>]]></description>
+			<category>discussions</category>
+			<pubDate>Tue, 24 Oct 2017 16:48:36 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Andy Tester
+
+	 created a new discussion</title>
+			<link>http://vanilla.stackideas.com/stream/item/329</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/329</guid>
+			<description><![CDATA[<div class="es-stream-apps type-discuss">
+    <div class="es-stream-apps__hd">
+        <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/17" class="es-stream-apps__title">
+            Login Screen appears behind photo view pop-up        </a>
+        <div class="es-stream-apps__meta t-fs--sm">
+            Posted on Wednesday, 18 October 2017        </div>
+    </div>
+
+    <div class="es-stream-apps__bd es-stream-apps--border">
+        <div class="es-stream-apps__desc">
+            This error is I think unique to Vanilla. Experienced it here, but works ok on main ES 2.1 test site...
+
+If you view a photo album and look at a particular photo it pops up in a large popup which includes repost, like and share options... if you're ...        </div>
+
+        <ol class="g-list--horizontal has-dividers--right">
+            <li class="g-list__item">
+                <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/17">
+                    View Discussion                </a>
+            </li>
+        </ol>
+
+            </div>
+</div>]]></description>
+			<category>discussions</category>
+			<pubDate>Wed, 18 Oct 2017 21:50:56 +0000</pubDate>
+		</item>
+		<item>
+			<title>Stack Ideas
+ accepted a reply as an answer for a discussion</title>
+			<link>http://vanilla.stackideas.com/stream/item/319</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/319</guid>
+			<description><![CDATA[<div class="es-stream-apps type-discuss is-locked">
+    <div class="es-stream-apps__hd">
+        <div class="o-flag">
+            <div class="o-flag__image">
+                <a href="http://vanilla.stackideas.com/single-page-layout" class="o-avatar o-avatar--rounded o-avatar--sm" data-page-id="1">
+	<img src="http://vanilla.stackideas.com/media/com_easysocial/avatars/page/1/1a022433675515f0dd1931eb9b2f5c82_medium.png" alt="Stack Ideas" width="24" height="24" />
+</a>
+            </div>
+            <div class="o-flag__body">
+            	<a href="http://vanilla.stackideas.com/single-page-layout">Stack Ideas</a>
+                <span>replied:</span>
+            </div>
+        </div>
+        <i class="fa fa-check-circle es-stream-apps__state"></i>
+    </div>
+    <div class="es-stream-apps__bd es-stream-apps--border">
+        <div class="es-stream-apps__desc is-quote">
+            Hi Andy,
+
+Thanks for your suggestion. We'll try to implement this. 
+
+Have a nice wonderful day.         </div>
+        <ol class="g-list--horizontal has-dividers--right">
+            <li class="g-list__item">
+                <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15">
+                    View Discussion                </a>
+            </li>
+        </ol>
+    </div>
+</div>]]></description>
+			<category>discussions</category>
+			<pubDate>Tue, 17 Oct 2017 06:07:11 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Andy Tester
+
+	 created a new discussion</title>
+			<link>http://vanilla.stackideas.com/stream/item/313</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/313</guid>
+			<description><![CDATA[<div class="es-stream-apps type-discuss">
+    <div class="es-stream-apps__hd">
+        <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15" class="es-stream-apps__title">
+            Drop-Down Menu        </a>
+        <div class="es-stream-apps__meta t-fs--sm">
+            Posted on Monday, 16 October 2017        </div>
+    </div>
+
+    <div class="es-stream-apps__bd es-stream-apps--border">
+        <div class="es-stream-apps__desc">
+            My first reaction is it really needs a block of background colour on the mouseover of drop down menu items. On the demo site the highlighting of drop-down menu items (main Nav bar) is so very subtle you can hardly notice it. A nice block of backgroun...        </div>
+
+        <ol class="g-list--horizontal has-dividers--right">
+            <li class="g-list__item">
+                <a href="http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15">
+                    View Discussion                </a>
+            </li>
+        </ol>
+
+            </div>
+</div>]]></description>
+			<category>discussions</category>
+			<pubDate>Mon, 16 Oct 2017 12:29:47 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

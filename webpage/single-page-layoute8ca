@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Stack Ideas</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/single-page-layout</id>
+	<updated>2019-12-27T18:37:15+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/single-page-layout?format=feed&amp;type=atom"/>
+	<entry>
+		<title>
+	
+		
+	Demo
+
+	 liked this page</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-08-24T12:04:16+00:00</published>
+		<updated>2018-08-24T12:04:16+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Demo</name>
+		</author>
+		<category term="pages" />
+	</entry>
+	<entry>
+		<title>	
+	
+		
+	Sergio Antoniolli
+
+	   
+
+Stack Ideas
+</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/547"/>
+		<published>2017-11-02T14:39:43+00:00</published>
+		<updated>2017-11-02T14:39:43+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/547</id>
+		<author>
+			<name>Sergio Antoniolli</name>
+		</author>
+		<summary type="html">Hi guys. Profile verification icon has not enough padding from name.&lt;br&gt;
+&lt;br&gt;
+Thanks!
+&lt;div class=&quot;es-photos photos-1 es-stream-photos pattern-tile&quot;
+	data-es-photo-group=&quot;album:35&quot;
+			data-es-photo-streamid=&quot;547&quot;
+	&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/photos/133-img-20171102-223319&quot;
+			data-es-photo=&quot;133&quot;
+			title=&quot;IMG_20171102_223319&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/35/133/img-20171102-223319_large.png&quot;
+						 alt=&quot;IMG_20171102_223319&quot;
+						 data-width=&quot;1080&quot;
+						 data-height=&quot;703&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+		&lt;/div&gt;
+</summary>
+		<content type="html">Hi guys. Profile verification icon has not enough padding from name.&lt;br&gt;
+&lt;br&gt;
+Thanks!
+&lt;div class=&quot;es-photos photos-1 es-stream-photos pattern-tile&quot;
+	data-es-photo-group=&quot;album:35&quot;
+			data-es-photo-streamid=&quot;547&quot;
+	&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/photos/133-img-20171102-223319&quot;
+			data-es-photo=&quot;133&quot;
+			title=&quot;IMG_20171102_223319&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/35/133/img-20171102-223319_large.png&quot;
+						 alt=&quot;IMG_20171102_223319&quot;
+						 data-width=&quot;1080&quot;
+						 data-height=&quot;703&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+		&lt;/div&gt;
+</content>
+		<category term="photos" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Sergio Antoniolli
+
+	 liked this page</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-11-02T14:21:09+00:00</published>
+		<updated>2017-11-02T14:21:09+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Sergio Antoniolli</name>
+		</author>
+		<category term="pages" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Barry Böhme
+
+	 liked this page</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2017-11-01T18:14:48+00:00</published>
+		<updated>2017-11-01T18:14:48+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Barry Böhme</name>
+		</author>
+		<category term="pages" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Andy Tester
+
+	 created a new discussion</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/454"/>
+		<published>2017-10-24T16:48:36+00:00</published>
+		<updated>2017-10-24T16:48:36+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/454</id>
+		<author>
+			<name>Andy Tester</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/21&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            Events Calendar Widget        &lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            Posted on Tuesday, 24 October 2017        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+            Just wanted to double-check you guys had fixed the calendar widget.. it's still pushed up right to the right hand side of the column at http://vanilla.stackideas.com/events        &lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/21&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/21&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            Events Calendar Widget        &lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            Posted on Tuesday, 24 October 2017        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+            Just wanted to double-check you guys had fixed the calendar widget.. it's still pushed up right to the right hand side of the column at http://vanilla.stackideas.com/events        &lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/21&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="discussions" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Andy Tester
+
+	 created a new discussion</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/329"/>
+		<published>2017-10-18T21:50:56+00:00</published>
+		<updated>2017-10-18T21:50:56+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/329</id>
+		<author>
+			<name>Andy Tester</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/17&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            Login Screen appears behind photo view pop-up        &lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            Posted on Wednesday, 18 October 2017        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+            This error is I think unique to Vanilla. Experienced it here, but works ok on main ES 2.1 test site...
+
+If you view a photo album and look at a particular photo it pops up in a large popup which includes repost, like and share options... if you're ...        &lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/17&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/17&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            Login Screen appears behind photo view pop-up        &lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            Posted on Wednesday, 18 October 2017        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+            This error is I think unique to Vanilla. Experienced it here, but works ok on main ES 2.1 test site...
+
+If you view a photo album and look at a particular photo it pops up in a large popup which includes repost, like and share options... if you're ...        &lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/17&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="discussions" />
+	</entry>
+	<entry>
+		<title>Stack Ideas
+ accepted a reply as an answer for a discussion</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/319"/>
+		<published>2017-10-17T06:07:11+00:00</published>
+		<updated>2017-10-17T06:07:11+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/319</id>
+		<author>
+			<name>Ben Abraham</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-discuss is-locked&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;div class=&quot;o-flag&quot;&gt;
+            &lt;div class=&quot;o-flag__image&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout&quot; class=&quot;o-avatar o-avatar--rounded o-avatar--sm&quot; data-page-id=&quot;1&quot;&gt;
+	&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/avatars/page/1/1a022433675515f0dd1931eb9b2f5c82_medium.png&quot; alt=&quot;Stack Ideas&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;o-flag__body&quot;&gt;
+            	&lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout&quot;&gt;Stack Ideas&lt;/a&gt;
+                &lt;span&gt;replied:&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;i class=&quot;fa fa-check-circle es-stream-apps__state&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc is-quote&quot;&gt;
+            Hi Andy,
+
+Thanks for your suggestion. We'll try to implement this. 
+
+Have a nice wonderful day.         &lt;/div&gt;
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-discuss is-locked&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;div class=&quot;o-flag&quot;&gt;
+            &lt;div class=&quot;o-flag__image&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout&quot; class=&quot;o-avatar o-avatar--rounded o-avatar--sm&quot; data-page-id=&quot;1&quot;&gt;
+	&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/avatars/page/1/1a022433675515f0dd1931eb9b2f5c82_medium.png&quot; alt=&quot;Stack Ideas&quot; width=&quot;24&quot; height=&quot;24&quot; /&gt;
+&lt;/a&gt;
+            &lt;/div&gt;
+            &lt;div class=&quot;o-flag__body&quot;&gt;
+            	&lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout&quot;&gt;Stack Ideas&lt;/a&gt;
+                &lt;span&gt;replied:&lt;/span&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        &lt;i class=&quot;fa fa-check-circle es-stream-apps__state&quot;&gt;&lt;/i&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc is-quote&quot;&gt;
+            Hi Andy,
+
+Thanks for your suggestion. We'll try to implement this. 
+
+Have a nice wonderful day.         &lt;/div&gt;
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="discussions" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Andy Tester
+
+	 created a new discussion</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/313"/>
+		<published>2017-10-16T12:29:47+00:00</published>
+		<updated>2017-10-16T12:29:47+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/313</id>
+		<author>
+			<name>Andy Tester</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            Drop-Down Menu        &lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            Posted on Monday, 16 October 2017        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+            My first reaction is it really needs a block of background colour on the mouseover of drop down menu items. On the demo site the highlighting of drop-down menu items (main Nav bar) is so very subtle you can hardly notice it. A nice block of backgroun...        &lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;es-stream-apps type-discuss&quot;&gt;
+    &lt;div class=&quot;es-stream-apps__hd&quot;&gt;
+        &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15&quot; class=&quot;es-stream-apps__title&quot;&gt;
+            Drop-Down Menu        &lt;/a&gt;
+        &lt;div class=&quot;es-stream-apps__meta t-fs--sm&quot;&gt;
+            Posted on Monday, 16 October 2017        &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;es-stream-apps__bd es-stream-apps--border&quot;&gt;
+        &lt;div class=&quot;es-stream-apps__desc&quot;&gt;
+            My first reaction is it really needs a block of background colour on the mouseover of drop down menu items. On the demo site the highlighting of drop-down menu items (main Nav bar) is so very subtle you can hardly notice it. A nice block of backgroun...        &lt;/div&gt;
+
+        &lt;ol class=&quot;g-list--horizontal has-dividers--right&quot;&gt;
+            &lt;li class=&quot;g-list__item&quot;&gt;
+                &lt;a href=&quot;http://vanilla.stackideas.com/single-page-layout/47-discussions/item/15&quot;&gt;
+                    View Discussion                &lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ol&gt;
+
+            &lt;/div&gt;
+&lt;/div&gt;</content>
+		<category term="discussions" />
+	</entry>
+</feed>
