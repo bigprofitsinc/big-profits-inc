@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">test doang</title>
+	<subtitle type="text">Vanilla Template</subtitle>
+	<link rel="alternate" type="text/html" href="http://vanilla.stackideas.com"/>
+	<id>http://vanilla.stackideas.com/community/events/14-testdoank</id>
+	<updated>2019-12-27T18:40:25+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://vanilla.stackideas.com/community/events/14-testdoank?format=feed&amp;type=atom"/>
+	<entry>
+		<title> 
+	
+	
+		
+	Ada Donie Abdullah
+
+	 updated test doang
+ details</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/"/>
+		<published>2018-01-07T15:51:07+00:00</published>
+		<updated>2018-01-07T15:51:07+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/</id>
+		<author>
+			<name>Ada Donie Abdullah</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;test doang&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;test doang&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+							&lt;span data-original-title=&quot;This is a public event. Anyone can join and participate in this event.&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Public	&lt;/span&gt;
+	
+	
+					&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					just test doankkkkkkkkkkkkkkk				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				20th Jan, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											2763 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					&lt;div class=&quot;o-btn-group&quot; data-es-events-rsvp data-id=&quot;14&quot; data-page-reload=&quot;&quot;&gt;
+	&lt;button type=&quot;button&quot; class=&quot;btn btn-es-primary-o btn-sm dropdown-toggle_&quot; data-bs-toggle=&quot;dropdown&quot; data-button&gt;
+		&lt;div class=&quot;o-loader o-loader--sm&quot;&gt;&lt;/div&gt;
+		&lt;b&gt;
+			&lt;span data-text&gt;
+							RSVP						&lt;/span&gt;
+
+			&amp;nbsp;&lt;i class=&quot;fa fa-caret-down&quot;&gt;&lt;/i&gt;
+		&lt;/b&gt;
+	&lt;/button&gt;
+
+	&lt;ul class=&quot;dropdown-menu dropdown-menu-right dropdown-menu--rsvp&quot; &gt;
+
+		
+					&lt;li class=&quot;es-rsvp-notice&quot;&gt;
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			&lt;/li&gt;
+		
+		
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;test doang&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;test doang&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+							&lt;span data-original-title=&quot;This is a public event. Anyone can join and participate in this event.&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Public	&lt;/span&gt;
+	
+	
+					&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					just test doankkkkkkkkkkkkkkk				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				20th Jan, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											2763 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					&lt;div class=&quot;o-btn-group&quot; data-es-events-rsvp data-id=&quot;14&quot; data-page-reload=&quot;&quot;&gt;
+	&lt;button type=&quot;button&quot; class=&quot;btn btn-es-primary-o btn-sm dropdown-toggle_&quot; data-bs-toggle=&quot;dropdown&quot; data-button&gt;
+		&lt;div class=&quot;o-loader o-loader--sm&quot;&gt;&lt;/div&gt;
+		&lt;b&gt;
+			&lt;span data-text&gt;
+							RSVP						&lt;/span&gt;
+
+			&amp;nbsp;&lt;i class=&quot;fa fa-caret-down&quot;&gt;&lt;/i&gt;
+		&lt;/b&gt;
+	&lt;/button&gt;
+
+	&lt;ul class=&quot;dropdown-menu dropdown-menu-right dropdown-menu--rsvp&quot; &gt;
+
+		
+					&lt;li class=&quot;es-rsvp-notice&quot;&gt;
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			&lt;/li&gt;
+		
+		
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="events" />
+	</entry>
+	<entry>
+		<title>
+	
+		
+	Ada Donie Abdullah
+
+	 uploaded 5 photos in the album Untitled</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/2600"/>
+		<published>2018-01-07T15:49:16+00:00</published>
+		<updated>2018-01-07T15:49:16+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/2600</id>
+		<author>
+			<name>Ada Donie Abdullah</name>
+		</author>
+		<summary type="html">
+&lt;div class=&quot;es-photos photos-5 es-stream-photos pattern-tile&quot;
+	data-es-photo-group=&quot;album:92&quot;
+			data-es-photo-streamid=&quot;2600&quot;
+	&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/183-untitled-2018-01-07&quot;
+			data-es-photo=&quot;183&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/183/15_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/182-untitled-2018-01-07&quot;
+			data-es-photo=&quot;182&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/182/14_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/181-untitled-2018-01-07&quot;
+			data-es-photo=&quot;181&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/181/13_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/180-untitled-2018-01-07&quot;
+			data-es-photo=&quot;180&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/180/12_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/179-untitled-2018-01-07&quot;
+			data-es-photo=&quot;179&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/179/11_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+		&lt;/div&gt;
+</summary>
+		<content type="html">
+&lt;div class=&quot;es-photos photos-5 es-stream-photos pattern-tile&quot;
+	data-es-photo-group=&quot;album:92&quot;
+			data-es-photo-streamid=&quot;2600&quot;
+	&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/183-untitled-2018-01-07&quot;
+			data-es-photo=&quot;183&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/183/15_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/182-untitled-2018-01-07&quot;
+			data-es-photo=&quot;182&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/182/14_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/181-untitled-2018-01-07&quot;
+			data-es-photo=&quot;181&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/181/13_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/180-untitled-2018-01-07&quot;
+			data-es-photo=&quot;180&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/180/12_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+			&lt;div class=&quot;es-photo es-stream-photo ar-4x3&quot;&gt;
+		&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/photos/179-untitled-2018-01-07&quot;
+			data-es-photo=&quot;179&quot;
+			title=&quot;Untitled 2018-01-07&quot;&gt;
+			&lt;u&gt;&lt;b data-mode=&quot;cover&quot;
+				data-threshold=&quot;128&quot;&gt;
+					&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/photos/92/179/11_large.png&quot;
+						 alt=&quot;Untitled 2018-01-07&quot;
+						 data-width=&quot;400&quot;
+						 data-height=&quot;400&quot;
+						 onload=&quot;window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);&quot; /&gt;
+			&lt;/b&gt;&lt;/u&gt;
+					&lt;/a&gt;
+	&lt;/div&gt;
+		&lt;/div&gt;
+</content>
+		<category term="photos" />
+	</entry>
+	<entry>
+		<title> 
+	
+	
+		
+	Ada Donie Abdullah
+
+	 created a new event</title>
+		<link rel="alternate" type="text/html" href="http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/2599"/>
+		<published>2018-01-07T15:46:40+00:00</published>
+		<updated>2018-01-07T15:46:40+00:00</updated>
+		<id>http://vanilla.stackideas.comhttp://vanilla.stackideas.com/stream/item/2599</id>
+		<author>
+			<name>Ada Donie Abdullah</name>
+		</author>
+		<summary type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;test doang&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;test doang&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+							&lt;span data-original-title=&quot;This is a public event. Anyone can join and participate in this event.&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Public	&lt;/span&gt;
+	
+	
+					&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					just test doankkkkkkkkkkkkkkk				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				20th Jan, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											2763 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					&lt;div class=&quot;o-btn-group&quot; data-es-events-rsvp data-id=&quot;14&quot; data-page-reload=&quot;&quot;&gt;
+	&lt;button type=&quot;button&quot; class=&quot;btn btn-es-primary-o btn-sm dropdown-toggle_&quot; data-bs-toggle=&quot;dropdown&quot; data-button&gt;
+		&lt;div class=&quot;o-loader o-loader--sm&quot;&gt;&lt;/div&gt;
+		&lt;b&gt;
+			&lt;span data-text&gt;
+							RSVP						&lt;/span&gt;
+
+			&amp;nbsp;&lt;i class=&quot;fa fa-caret-down&quot;&gt;&lt;/i&gt;
+		&lt;/b&gt;
+	&lt;/button&gt;
+
+	&lt;ul class=&quot;dropdown-menu dropdown-menu-right dropdown-menu--rsvp&quot; &gt;
+
+		
+					&lt;li class=&quot;es-rsvp-notice&quot;&gt;
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			&lt;/li&gt;
+		
+		
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</summary>
+		<content type="html">&lt;div class=&quot;es-profile-header es-profile-header--mini&quot;&gt;
+	&lt;div class=&quot;es-profile-header__hd with-cover&quot;&gt;
+		&lt;div class=&quot;es-profile-header__cover es-flyout no-cover&quot; style=&quot;background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;&quot;&gt;
+			&lt;div class=&quot;es-cover-container&quot;&gt;
+
+			&lt;/div&gt;
+		&lt;/div&gt;
+		&lt;div class=&quot;es-profile-header__avatar-wrap es-flyout&quot; data-profile-avatar=&quot;&quot;&gt;
+			&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;
+				&lt;img src=&quot;http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png&quot; alt=&quot;test doang&quot;&gt;
+			&lt;/a&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__bd&quot;&gt;
+		&lt;div class=&quot;t-lg-pull-left&quot;&gt;
+			&lt;h2 class=&quot;es-profile-header__title&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank&quot;&gt;test doang&lt;/a&gt;
+			&lt;/h2&gt;
+
+			&lt;ul class=&quot;g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md&quot;&gt;
+				&lt;li class=&quot;&quot;&gt;
+					&lt;a href=&quot;http://vanilla.stackideas.com/community/events/categories/12-general-2-3&quot;&gt;
+						&lt;i class=&quot;fa fa-folder&quot;&gt;&lt;/i&gt;&amp;nbsp; General					&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;&quot;&gt;
+							&lt;span data-original-title=&quot;This is a public event. Anyone can join and participate in this event.&quot; data-es-provide=&quot;tooltip&quot; data-placement=&quot;bottom&quot;&gt;
+		&lt;i class=&quot;fa fa-globe-americas&quot;&gt;&lt;/i&gt;&amp;nbsp;&amp;nbsp;		Public	&lt;/span&gt;
+	
+	
+					&lt;/li&gt;
+			&lt;/ul&gt;
+
+			&lt;div class=&quot;es-teaser-about t-lg-mt--md&quot;&gt;
+				&lt;div class=&quot;&quot;&gt;
+					just test doankkkkkkkkkkkkkkk				&lt;/div&gt;
+			&lt;/div&gt;
+
+			&lt;div class=&quot;es-teaser-date&quot;&gt;
+				&lt;i class=&quot;fa fa-calendar mr-5&quot;&gt;&lt;/i&gt;
+				20th Jan, 2018			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;es-profile-header__ft&quot;&gt;
+		&lt;nav class=&quot;o-nav es-nav-pills&quot;&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14/albums&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;far fa-images&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Album									&lt;/a&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;a href=&quot;http://vanilla.stackideas.com/community/events/14-testdoank/64-guests&quot; class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-users&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											1 Attendee									&lt;/a&gt;
+			&lt;/span&gt;
+
+						&lt;span class=&quot;o-nav__item&quot;&gt;
+				&lt;span class=&quot;o-nav__link&quot;&gt;
+					&lt;i class=&quot;fa fa-eye&quot;&gt;&lt;/i&gt;&amp;nbsp;
+											2763 Views									&lt;/span&gt;
+			&lt;/span&gt;
+			
+			&lt;div role=&quot;toolbar&quot; class=&quot;btn-toolbar t-pull-right&quot;&gt;
+				&lt;div class=&quot;o-btn-group&quot;&gt;
+					&lt;div class=&quot;o-btn-group&quot; data-es-events-rsvp data-id=&quot;14&quot; data-page-reload=&quot;&quot;&gt;
+	&lt;button type=&quot;button&quot; class=&quot;btn btn-es-primary-o btn-sm dropdown-toggle_&quot; data-bs-toggle=&quot;dropdown&quot; data-button&gt;
+		&lt;div class=&quot;o-loader o-loader--sm&quot;&gt;&lt;/div&gt;
+		&lt;b&gt;
+			&lt;span data-text&gt;
+							RSVP						&lt;/span&gt;
+
+			&amp;nbsp;&lt;i class=&quot;fa fa-caret-down&quot;&gt;&lt;/i&gt;
+		&lt;/b&gt;
+	&lt;/button&gt;
+
+	&lt;ul class=&quot;dropdown-menu dropdown-menu-right dropdown-menu--rsvp&quot; &gt;
+
+		
+					&lt;li class=&quot;es-rsvp-notice&quot;&gt;
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			&lt;/li&gt;
+		
+		
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+		&lt;/nav&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+</content>
+		<category term="events" />
+	</entry>
+</feed>

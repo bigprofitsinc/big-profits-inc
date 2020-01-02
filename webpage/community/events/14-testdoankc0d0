@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>test doang</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://vanilla.stackideas.com</link>
+		<lastBuildDate>Fri, 27 Dec 2019 18:40:24 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/community/events/14-testdoank?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title> 
+	
+	
+		
+	Ada Donie Abdullah
+
+	 updated test doang
+ details</title>
+			<link>http://vanilla.stackideas.com/</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/</guid>
+			<description><![CDATA[<div class="es-profile-header es-profile-header--mini">
+	<div class="es-profile-header__hd with-cover">
+		<div class="es-profile-header__cover es-flyout no-cover" style="background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;">
+			<div class="es-cover-container">
+
+			</div>
+		</div>
+		<div class="es-profile-header__avatar-wrap es-flyout" data-profile-avatar="">
+			<a href="http://vanilla.stackideas.com/community/events/14-testdoank">
+				<img src="http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png" alt="test doang">
+			</a>
+		</div>
+	</div>
+
+	<div class="es-profile-header__bd">
+		<div class="t-lg-pull-left">
+			<h2 class="es-profile-header__title">
+				<a href="http://vanilla.stackideas.com/community/events/14-testdoank">test doang</a>
+			</h2>
+
+			<ul class="g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md">
+				<li class="">
+					<a href="http://vanilla.stackideas.com/community/events/categories/12-general-2-3">
+						<i class="fa fa-folder"></i>&nbsp; General					</a>
+				</li>
+
+				<li class="">
+							<span data-original-title="This is a public event. Anyone can join and participate in this event." data-es-provide="tooltip" data-placement="bottom">
+		<i class="fa fa-globe-americas"></i>&nbsp;&nbsp;		Public	</span>
+	
+	
+					</li>
+			</ul>
+
+			<div class="es-teaser-about t-lg-mt--md">
+				<div class="">
+					just test doankkkkkkkkkkkkkkk				</div>
+			</div>
+
+			<div class="es-teaser-date">
+				<i class="fa fa-calendar mr-5"></i>
+				20th Jan, 2018			</div>
+		</div>
+	</div>
+
+	<div class="es-profile-header__ft">
+		<nav class="o-nav es-nav-pills">
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/14/albums" class="o-nav__link">
+					<i class="far fa-images"></i>&nbsp;
+											1 Album									</a>
+			</span>
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/14-testdoank/64-guests" class="o-nav__link">
+					<i class="fa fa-users"></i>&nbsp;
+											1 Attendee									</a>
+			</span>
+
+						<span class="o-nav__item">
+				<span class="o-nav__link">
+					<i class="fa fa-eye"></i>&nbsp;
+											2763 Views									</span>
+			</span>
+			
+			<div role="toolbar" class="btn-toolbar t-pull-right">
+				<div class="o-btn-group">
+					<div class="o-btn-group" data-es-events-rsvp data-id="14" data-page-reload="">
+	<button type="button" class="btn btn-es-primary-o btn-sm dropdown-toggle_" data-bs-toggle="dropdown" data-button>
+		<div class="o-loader o-loader--sm"></div>
+		<b>
+			<span data-text>
+							RSVP						</span>
+
+			&nbsp;<i class="fa fa-caret-down"></i>
+		</b>
+	</button>
+
+	<ul class="dropdown-menu dropdown-menu-right dropdown-menu--rsvp" >
+
+		
+					<li class="es-rsvp-notice">
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			</li>
+		
+		
+		
+	</ul>
+</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+]]></description>
+			<category>events</category>
+			<pubDate>Sun, 07 Jan 2018 15:51:07 +0000</pubDate>
+		</item>
+		<item>
+			<title>
+	
+		
+	Ada Donie Abdullah
+
+	 uploaded 5 photos in the album Untitled</title>
+			<link>http://vanilla.stackideas.com/stream/item/2600</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/2600</guid>
+			<description><![CDATA[
+<div class="es-photos photos-5 es-stream-photos pattern-tile"
+	data-es-photo-group="album:92"
+			data-es-photo-streamid="2600"
+	>
+			<div class="es-photo es-stream-photo ar-4x3">
+		<a href="http://vanilla.stackideas.com/community/events/14-testdoank/photos/183-untitled-2018-01-07"
+			data-es-photo="183"
+			title="Untitled 2018-01-07">
+			<u><b data-mode="cover"
+				data-threshold="128">
+					<img src="http://vanilla.stackideas.com/media/com_easysocial/photos/92/183/15_large.png"
+						 alt="Untitled 2018-01-07"
+						 data-width="400"
+						 data-height="400"
+						 onload="window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);" />
+			</b></u>
+					</a>
+	</div>
+			<div class="es-photo es-stream-photo ar-4x3">
+		<a href="http://vanilla.stackideas.com/community/events/14-testdoank/photos/182-untitled-2018-01-07"
+			data-es-photo="182"
+			title="Untitled 2018-01-07">
+			<u><b data-mode="cover"
+				data-threshold="128">
+					<img src="http://vanilla.stackideas.com/media/com_easysocial/photos/92/182/14_large.png"
+						 alt="Untitled 2018-01-07"
+						 data-width="400"
+						 data-height="400"
+						 onload="window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);" />
+			</b></u>
+					</a>
+	</div>
+			<div class="es-photo es-stream-photo ar-4x3">
+		<a href="http://vanilla.stackideas.com/community/events/14-testdoank/photos/181-untitled-2018-01-07"
+			data-es-photo="181"
+			title="Untitled 2018-01-07">
+			<u><b data-mode="cover"
+				data-threshold="128">
+					<img src="http://vanilla.stackideas.com/media/com_easysocial/photos/92/181/13_large.png"
+						 alt="Untitled 2018-01-07"
+						 data-width="400"
+						 data-height="400"
+						 onload="window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);" />
+			</b></u>
+					</a>
+	</div>
+			<div class="es-photo es-stream-photo ar-4x3">
+		<a href="http://vanilla.stackideas.com/community/events/14-testdoank/photos/180-untitled-2018-01-07"
+			data-es-photo="180"
+			title="Untitled 2018-01-07">
+			<u><b data-mode="cover"
+				data-threshold="128">
+					<img src="http://vanilla.stackideas.com/media/com_easysocial/photos/92/180/12_large.png"
+						 alt="Untitled 2018-01-07"
+						 data-width="400"
+						 data-height="400"
+						 onload="window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);" />
+			</b></u>
+					</a>
+	</div>
+			<div class="es-photo es-stream-photo ar-4x3">
+		<a href="http://vanilla.stackideas.com/community/events/14-testdoank/photos/179-untitled-2018-01-07"
+			data-es-photo="179"
+			title="Untitled 2018-01-07">
+			<u><b data-mode="cover"
+				data-threshold="128">
+					<img src="http://vanilla.stackideas.com/media/com_easysocial/photos/92/179/11_large.png"
+						 alt="Untitled 2018-01-07"
+						 data-width="400"
+						 data-height="400"
+						 onload="window.ESImage ? ESImage(this) : (window.ESImageList || (window.ESImageList=[])).push(this);" />
+			</b></u>
+					</a>
+	</div>
+		</div>
+]]></description>
+			<category>photos</category>
+			<pubDate>Sun, 07 Jan 2018 15:49:16 +0000</pubDate>
+		</item>
+		<item>
+			<title> 
+	
+	
+		
+	Ada Donie Abdullah
+
+	 created a new event</title>
+			<link>http://vanilla.stackideas.com/stream/item/2599</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/2599</guid>
+			<description><![CDATA[<div class="es-profile-header es-profile-header--mini">
+	<div class="es-profile-header__hd with-cover">
+		<div class="es-profile-header__cover es-flyout no-cover" style="background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;">
+			<div class="es-cover-container">
+
+			</div>
+		</div>
+		<div class="es-profile-header__avatar-wrap es-flyout" data-profile-avatar="">
+			<a href="http://vanilla.stackideas.com/community/events/14-testdoank">
+				<img src="http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png" alt="test doang">
+			</a>
+		</div>
+	</div>
+
+	<div class="es-profile-header__bd">
+		<div class="t-lg-pull-left">
+			<h2 class="es-profile-header__title">
+				<a href="http://vanilla.stackideas.com/community/events/14-testdoank">test doang</a>
+			</h2>
+
+			<ul class="g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md">
+				<li class="">
+					<a href="http://vanilla.stackideas.com/community/events/categories/12-general-2-3">
+						<i class="fa fa-folder"></i>&nbsp; General					</a>
+				</li>
+
+				<li class="">
+							<span data-original-title="This is a public event. Anyone can join and participate in this event." data-es-provide="tooltip" data-placement="bottom">
+		<i class="fa fa-globe-americas"></i>&nbsp;&nbsp;		Public	</span>
+	
+	
+					</li>
+			</ul>
+
+			<div class="es-teaser-about t-lg-mt--md">
+				<div class="">
+					just test doankkkkkkkkkkkkkkk				</div>
+			</div>
+
+			<div class="es-teaser-date">
+				<i class="fa fa-calendar mr-5"></i>
+				20th Jan, 2018			</div>
+		</div>
+	</div>
+
+	<div class="es-profile-header__ft">
+		<nav class="o-nav es-nav-pills">
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/14/albums" class="o-nav__link">
+					<i class="far fa-images"></i>&nbsp;
+											1 Album									</a>
+			</span>
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/14-testdoank/64-guests" class="o-nav__link">
+					<i class="fa fa-users"></i>&nbsp;
+											1 Attendee									</a>
+			</span>
+
+						<span class="o-nav__item">
+				<span class="o-nav__link">
+					<i class="fa fa-eye"></i>&nbsp;
+											2763 Views									</span>
+			</span>
+			
+			<div role="toolbar" class="btn-toolbar t-pull-right">
+				<div class="o-btn-group">
+					<div class="o-btn-group" data-es-events-rsvp data-id="14" data-page-reload="">
+	<button type="button" class="btn btn-es-primary-o btn-sm dropdown-toggle_" data-bs-toggle="dropdown" data-button>
+		<div class="o-loader o-loader--sm"></div>
+		<b>
+			<span data-text>
+							RSVP						</span>
+
+			&nbsp;<i class="fa fa-caret-down"></i>
+		</b>
+	</button>
+
+	<ul class="dropdown-menu dropdown-menu-right dropdown-menu--rsvp" >
+
+		
+					<li class="es-rsvp-notice">
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			</li>
+		
+		
+		
+	</ul>
+</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+]]></description>
+			<category>events</category>
+			<pubDate>Sun, 07 Jan 2018 15:46:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

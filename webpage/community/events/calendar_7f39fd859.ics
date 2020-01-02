@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:3f5ee852c0b881fa49b73ac80ffdedda
+DTSTAMP:20191227T183856Z
+
+DTSTART:20180324T000000
+DTEND:20180325T235959
+SUMMARY:AnimeJapan2018 
+DESCRIPTION:■AnimeJapan 2018:
+
+Event title：AnimeJapan 2018
+
+Venue： Tokyo Big Sight (3-11-1, Ariake, Koto-ku, Tokyo, 135-0063)
+
+East Exhibition Hall 1-7 [Main Area]
+
+Reception Hall, Conference Tower 1F [Business Area]
+
+Schedule for Main Area：March 24(Sat) – 25(Sun)
+
+Schedule for Business Area：March 22(Thu) – 23(Fri)
+
+Organizer：AnimeJapan Organization
+
+Office： AnimeJapan Secretariat
+
+＊We follow up with further details later. 
+LOCATION:Tokyo, Japan
+END:VEVENT
+
+END:VCALENDAR

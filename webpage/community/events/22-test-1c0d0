@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>test</title>
+		<description><![CDATA[Vanilla Template]]></description>
+		<link>http://vanilla.stackideas.com</link>
+		<lastBuildDate>Fri, 27 Dec 2019 19:04:03 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://vanilla.stackideas.com/community/events/22-test-1?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title> 
+	
+	
+		
+	vowswu
+
+	 created a new event</title>
+			<link>http://vanilla.stackideas.com/stream/item/3843</link>
+			<guid isPermaLink="true">http://vanilla.stackideas.com/stream/item/3843</guid>
+			<description><![CDATA[<div class="es-profile-header es-profile-header--mini">
+	<div class="es-profile-header__hd with-cover">
+		<div class="es-profile-header__cover es-flyout no-cover" style="background-image: url(http://vanilla.stackideas.com/media/com_easysocial/defaults/covers/event/default.jpg); background-position: 0% 0%;">
+			<div class="es-cover-container">
+
+			</div>
+		</div>
+		<div class="es-profile-header__avatar-wrap es-flyout" data-profile-avatar="">
+			<a href="http://vanilla.stackideas.com/community/events/22-test-1">
+				<img src="http://vanilla.stackideas.com/media/com_easysocial/defaults/avatars/event/medium.png" alt="test">
+			</a>
+		</div>
+	</div>
+
+	<div class="es-profile-header__bd">
+		<div class="t-lg-pull-left">
+			<h2 class="es-profile-header__title">
+				<a href="http://vanilla.stackideas.com/community/events/22-test-1">test</a>
+			</h2>
+
+			<ul class="g-list-inline g-list-inline--dashed es-profile-header__meta t-lg-mt--md">
+				<li class="">
+					<a href="http://vanilla.stackideas.com/community/events/categories/12-general-2-3">
+						<i class="fa fa-folder"></i>&nbsp; General					</a>
+				</li>
+
+				<li class="">
+							<span data-original-title="This is a public event. Anyone can join and participate in this event." data-es-provide="tooltip" data-placement="bottom">
+		<i class="fa fa-globe-americas"></i>&nbsp;&nbsp;		Public	</span>
+	
+	
+					</li>
+			</ul>
+
+			<div class="es-teaser-about t-lg-mt--md">
+				<div class="">
+					<div class="es-data-truncater" data-es-truncater>
+	<div data-text class="fd-cf">testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttestt...</div>
+	<div class="t-hidden" data-original>testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</div>
+
+		<a href="http://vanilla.stackideas.com/javascript:void(0);" data-readmore>More</a>
+	</div>
+				</div>
+			</div>
+
+			<div class="es-teaser-date">
+				<i class="fa fa-calendar mr-5"></i>
+				21st Feb, 2018			</div>
+		</div>
+	</div>
+
+	<div class="es-profile-header__ft">
+		<nav class="o-nav es-nav-pills">
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/22/albums" class="o-nav__link">
+					<i class="far fa-images"></i>&nbsp;
+											0 Album									</a>
+			</span>
+			<span class="o-nav__item">
+				<a href="http://vanilla.stackideas.com/community/events/22-test-1/64-guests" class="o-nav__link">
+					<i class="fa fa-users"></i>&nbsp;
+											1 Attendee									</a>
+			</span>
+
+						<span class="o-nav__item">
+				<span class="o-nav__link">
+					<i class="fa fa-eye"></i>&nbsp;
+											1604 Views									</span>
+			</span>
+			
+			<div role="toolbar" class="btn-toolbar t-pull-right">
+				<div class="o-btn-group">
+					<div class="o-btn-group" data-es-events-rsvp data-id="22" data-page-reload="">
+	<button type="button" class="btn btn-es-primary-o btn-sm dropdown-toggle_" data-bs-toggle="dropdown" data-button>
+		<div class="o-loader o-loader--sm"></div>
+		<b>
+			<span data-text>
+							RSVP						</span>
+
+			&nbsp;<i class="fa fa-caret-down"></i>
+		</b>
+	</button>
+
+	<ul class="dropdown-menu dropdown-menu-right dropdown-menu--rsvp" >
+
+		
+					<li class="es-rsvp-notice">
+				Sorry, but the event is over and you will no longer be able to RSVP or make any RSVP updates for this event			</li>
+		
+		
+		
+	</ul>
+</div>
+				</div>
+			</div>
+		</nav>
+	</div>
+</div>
+]]></description>
+			<category>events</category>
+			<pubDate>Wed, 21 Feb 2018 06:59:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

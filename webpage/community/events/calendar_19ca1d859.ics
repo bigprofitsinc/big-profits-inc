@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:731fe4e09326dd42a1420e2d66748e0b
+DTSTAMP:20191227T181441Z
+
+DTSTART:20171117T000000
+DTEND:20171119T235959
+SUMMARY:Joomla World Conference 2017
+DESCRIPTION:The Joomla! World Conference (JWC) is an annual user conference aimed at users of the award winning Joomla! content management system. Joomla! powers over 3% of the entire world’s websites and is used by individuals, multi-national corporations, governments and charities to serve and manage their online presence in an efficient, flexible way.
+
+Now in its sixth year, JWC is to be held in Europe for the first time and will bring together a community of likeminded Joomlers in Rome. A mix of keynotes, presentations, workshops and sessions will spread over three days in both English and Italian with simultaneous translation ensuring that the broadest content is accessible to all.
+LOCATION:Rome, Metropolitan City of Rome, Italy
+END:VEVENT
+
+END:VCALENDAR
